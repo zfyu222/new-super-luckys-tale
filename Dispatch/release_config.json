@@ -1,0 +1,22 @@
+{
+  "launch_mode": "original_exe",
+  "version": "1.0",
+  "repository": "zfyu222/new-super-luckys-tale",
+  "chinese_name": "新超级幸运狐",
+  "english_name": "New Super Lucky's Tale",
+  "release_date": "2026-11-26",
+  "steam_url": "https://store.steampowered.com/app/1038300/",
+  "mirror_url": "https://pan.baidu.com/s/5rYi8dFgkvMhFRuWmAOpCJw",
+  "share_name": "new-super-luckys-tale",
+  "steam_app_id": 1038300,
+  "exe": "nslt.exe",
+  "exe_sha256": "dfef833a2654029a59ae0cd31266cbd3ad69353a184e6c4db86ca93bd297c235",
+  "game_version": "10670184",
+  "platform": "Steam Windows",
+  "introduction": "这是一款轻松的 3D 平台冒险游戏。跟着小狐狸幸运穿越《岁月之书》里的各个世界，用跳跃、钻地和甩尾闯关，找回遗失的书页。旅途中有横向卷轴挑战、谜题、小游戏和头目战，也能收集道具和服装。",
+  "install": "解压到 nslt.exe 所在的游戏目录，双击“安装汉化.cmd”。",
+  "upgrade": "覆盖解压新版补丁后，双击“安装汉化.cmd”。",
+  "uninstall": "双击“卸载汉化.cmd”。",
+  "coverage": "简体中文界面、菜单、教程、对白和字幕，以及主标题、章节标题等部分贴图文字。安装后从 Steam 启动，游戏语言请选择英语（美国）。",
+  "changes": "首次发布。"
+}

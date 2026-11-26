@@ -1,0 +1,286 @@
+{
+  "167cb001f6f2a58ca65c6d7cc3b9b2d1041928d233bf69acd084ce8916a022fc": {
+    "text_rgba": [
+      255,
+      181,
+      45,
+      255
+    ],
+    "stroke_rgba": [
+      87,
+      35,
+      10,
+      255
+    ],
+    "stroke_width": 4,
+    "shadow": {
+      "rgba": [
+        132,
+        55,
+        15,
+        255
+      ],
+      "offset": [
+        2,
+        7
+      ],
+      "blur": 0
+    },
+    "font_weight": 900,
+    "blend": "normal",
+    "tracking": 0.035,
+    "align": "center",
+    "size_scale": 1.09
+  },
+  "4749c835d1928fe8cb5cdfb1a92f11bb68703be5102c66506949a1dd1d25b52e": {
+    "text_rgba": [
+      255,
+      153,
+      29,
+      255
+    ],
+    "stroke_rgba": [
+      133,
+      15,
+      6,
+      255
+    ],
+    "stroke_width": 4,
+    "shadow": {
+      "rgba": [
+        110,
+        4,
+        0,
+        255
+      ],
+      "offset": [
+        2,
+        7
+      ],
+      "blur": 0
+    },
+    "font_weight": 900,
+    "blend": "normal",
+    "tracking": -0.025,
+    "align": "center",
+    "size_scale": 1.09,
+    "angle": -11,
+    "italic": -10
+  },
+  "5a6d1bed9cc7c0c71453ca647515f30b09fb8ce86f929148a52d4184c5390a9a": {
+    "text_rgba": [
+      144,
+      239,
+      59,
+      255
+    ],
+    "stroke_rgba": [
+      26,
+      62,
+      21,
+      255
+    ],
+    "stroke_width": 4,
+    "shadow": {
+      "rgba": [
+        34,
+        102,
+        24,
+        255
+      ],
+      "offset": [
+        2,
+        7
+      ],
+      "blur": 0
+    },
+    "font_weight": 900,
+    "blend": "normal",
+    "tracking": 0.035,
+    "align": "center",
+    "size_scale": 1.09
+  },
+  "818ad560102886e982328605b13ea5fdab5fd3361a09716b3fe6eacf64ee9fbd": {
+    "text_rgba": [
+      14,
+      219,
+      242,
+      255
+    ],
+    "stroke_rgba": [
+      157,
+      37,
+      186,
+      255
+    ],
+    "stroke_width": 4,
+    "shadow": {
+      "rgba": [
+        40,
+        40,
+        88,
+        255
+      ],
+      "offset": [
+        2,
+        7
+      ],
+      "blur": 0
+    },
+    "font_weight": 900,
+    "blend": "normal",
+    "tracking": 0.035,
+    "align": "center",
+    "size_scale": 1.09
+  },
+  "9c93bc5f46cc2d844b0404408f55e0cf570aa352064fed4e7d234b6d7c31316e": {
+    "text_rgba": [
+      117,
+      250,
+      222,
+      255
+    ],
+    "stroke_rgba": [
+      21,
+      63,
+      99,
+      255
+    ],
+    "stroke_width": 4,
+    "shadow": {
+      "rgba": [
+        30,
+        47,
+        91,
+        255
+      ],
+      "offset": [
+        2,
+        7
+      ],
+      "blur": 0
+    },
+    "font_weight": 900,
+    "blend": "normal",
+    "tracking": 0.035,
+    "align": "center",
+    "size_scale": 1.09
+  },
+  "a25b2eec2270a2de0a57b3b64fa8720f0b3f9e12b6130af33a197a4f71d46a86": {
+    "text_rgba": [
+      219,
+      146,
+      255,
+      255
+    ],
+    "stroke_rgba": [
+      57,
+      29,
+      89,
+      255
+    ],
+    "stroke_width": 4,
+    "shadow": {
+      "rgba": [
+        72,
+        40,
+        115,
+        255
+      ],
+      "offset": [
+        2,
+        7
+      ],
+      "blur": 0
+    },
+    "font_weight": 900,
+    "blend": "normal",
+    "tracking": 0.035,
+    "align": "center",
+    "size_scale": 1.09
+  },
+  "a5fcab00e994d964f84c4e9ccbaca5d1dd9d8a4b6e9e925baf2dd4aa427ff9a6": {
+    "text_rgba": [
+      111,
+      169,
+      255,
+      255
+    ],
+    "stroke_rgba": [
+      24,
+      54,
+      111,
+      255
+    ],
+    "stroke_width": 4,
+    "shadow": {
+      "rgba": [
+        36,
+        56,
+        123,
+        255
+      ],
+      "offset": [
+        2,
+        7
+      ],
+      "blur": 0
+    },
+    "font_weight": 900,
+    "blend": "normal",
+    "tracking": 0.035,
+    "align": "center",
+    "size_scale": 1.09
+  },
+  "d96b8ec27b84a04c3fffe90986e386654ddb271bc20b6b44cfdd06b7038e02d6": {
+    "align": "center",
+    "font_weight": 800,
+    "stroke_width": 2,
+    "blend": "normal",
+    "text_rgba": [
+      26,
+      218,
+      245,
+      255
+    ],
+    "stroke_rgba": [
+      108,
+      28,
+      144,
+      255
+    ]
+  },
+  "f9223e9f72644b587ef876a064169ebafdd4236d6609a8177b30a547acf9dc9c": {
+    "text_rgba": [
+      17,
+      15,
+      11,
+      255
+    ],
+    "stroke_rgba": [
+      17,
+      15,
+      11,
+      255
+    ],
+    "stroke_width": 0,
+    "shadow": {
+      "rgba": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "font_weight": 900,
+    "blend": "normal",
+    "tracking": 0.06,
+    "align": "center",
+    "size_scale": 1.09,
+    "angle": 0
+  }
+}

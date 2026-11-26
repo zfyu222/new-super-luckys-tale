@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "source_sha256": "2b2b7474d756b4eca9e3c3f31414be8ed26d42f6cb50b1e75b2dd84bf5bb2d26",
+  "translation_sha256": "7d02acb003ea0b27eeb9d91835d7f35d65567a53da0d142e0df2867f0915be61",
+  "records": 2191,
+  "semantic_review": "full",
+  "polish": true,
+  "revision": 3,
+  "glossary": {
+    "hash": "5da7ddbca85b86efb83c22bb6d025e2b71650819d644e252f0775d9db59481bd",
+    "path": "glossary\\r2\\freeze_3977527e\\built\\glossary_reviewed.json",
+    "revision": 2
+  },
+  "ainiee": {
+    "actual_commit": "c50570c1dee7df7bd51316a253f0b42d10a8ca4c",
+    "expected_commit": "c50570c1dee7df7bd51316a253f0b42d10a8ca4c",
+    "license": "AGPL-3.0; Tools/AINiee/LICENSE",
+    "modules": {
+      "Domain/PromptBuilder/GlossaryHelper.py": "6b3072989b77c84787774439c79aaea7d4727fcda104667d8833b53bb490446f",
+      "Domain/TextProcessor/TextProcessor.py": "805f49f68302fab2c5832aad8c7597fb4c3382cea131618765248f30a5963eed",
+      "Infrastructure/LLMRequester/LLMClientFactory.py": "70d43af749640604813887241604edf0472a75afbbf106fb5e69cfd3753a1a4b",
+      "Infrastructure/LLMRequester/OpenaiRequester.py": "b2b1f5e6fd3a31727b2e1d2597e1bcca3e5e4db2cfec550ff6cfcd6a6cff3f79"
+    }
+  },
+  "path": "D:\\StaticHanHua\\Projects\\new-super-luckys-tale\\new-super-luckys-tale_text_translated.csv",
+  "quality_review": {
+    "report_hash": "72e058d6b62643f0299f4455cd4a60f4b0851e0fb9dcb626c1efef15cb60740d",
+    "reviewer": "workflow:no-disputes"
+  },
+  "in_game_check": "pending_repack",
+  "mixed_language_audit": {
+    "path": "D:\\StaticHanHua\\Projects\\new-super-luckys-tale\\TranslateFiles\\reports\\mixed_language_audit.json",
+    "candidate_records": 714,
+    "status": "candidates_only"
+  }
+}

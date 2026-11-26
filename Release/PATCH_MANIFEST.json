@@ -1,0 +1,85 @@
+{
+  "archive": "新超级幸运狐_子非鱼汉化1.0.zip",
+  "created": "2026-11-26",
+  "version": "1.0",
+  "files": [
+    {
+      "path": "nslt_Data/resources.assets",
+      "archive_path": "汉化文件/nslt_Data/resources.assets.vcdiff",
+      "sha256": "6c7949157faf886835073c4bed87ed2e90c40499a5b708d45d467c4a5403383f",
+      "source_sha256": "055a84552be4b9034326ddf19d84e08358069c178265a9236231944235f6f624",
+      "delta_sha256": "8456e9741ff29c452e487ba1e8e4c39a4777257f810b4d59805da3eef01560fb",
+      "size": 506710
+    },
+    {
+      "path": "nslt_Data/sharedassets0.assets",
+      "archive_path": "汉化文件/nslt_Data/sharedassets0.assets.vcdiff",
+      "sha256": "6994a30f299ce7bc0e7659bae3878b3ea75d47eb958e9e896aac276b300305c3",
+      "source_sha256": "831fcb38e44a5b6a6611089954aa88173cf2192efa9b8589992974dabe8765c8",
+      "delta_sha256": "8d4b0b0bd58d26ae0f936fb435e2f7690b4a6bf3633430eae148ce5e62d7502a",
+      "size": 11084218
+    },
+    {
+      "path": "nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded",
+      "archive_path": "汉化文件/nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded.vcdiff",
+      "sha256": "808464df875f54a8d05180cff56f7a558f0a60823c5ad460b8254a177411f118",
+      "source_sha256": "56e2e34d9cabc1b5f68839c3c53157f76af93f3138faf674d065ce31f0d6d1be",
+      "delta_sha256": "813b6a0ac614d82e68de80f510fc0df2b1e59cbebdfe09a5745b1622346cf6bc",
+      "size": 3369202
+    },
+    {
+      "path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_shaders",
+      "archive_path": "汉化文件/nslt_Data/StreamingAssets/Bundles/Windows/mega_shaders.vcdiff",
+      "sha256": "036ba02ca1dc833008239e77ddddf14dd2b396b61996cfa76e1d08287d6355fc",
+      "source_sha256": "563fe798d27e79ca0f6a1da6dff4dd198772350b2419d5d54e1f4439b50ccef9",
+      "delta_sha256": "3b00f5977c11d83e8786b3e27de92d5668942972559b3bef9e7d345f499623f0",
+      "size": 662034
+    },
+    {
+      "path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+      "archive_path": "汉化文件/nslt_Data/StreamingAssets/Bundles/Windows/mega_textures.vcdiff",
+      "sha256": "af537fbbd0b56882c2c46013a9bf596b58ed1f530f34d558540f4144d75bce99",
+      "source_sha256": "7920b3b05bd9df283fefd6ce7cc372d9f3109200c2469167ec302d8458e2ee5e",
+      "delta_sha256": "a0f622c96995e9bf87f000bd231c5c40a1aa6961ecce814baefadba5c332d58b",
+      "size": 54217778
+    }
+  ],
+  "auxiliary": [
+    {
+      "path": "卸载汉化.cmd",
+      "sha256": "2927c49786f2d97b7b95030c0f7c32e72d67e253e55b64e3ee0efc28e65ca9dc",
+      "size": 202
+    },
+    {
+      "path": "安装汉化.cmd",
+      "sha256": "3c206734585efe8b754e087e38475db967d18baf5381ae62dc079a1a7b593c06",
+      "size": 200
+    },
+    {
+      "path": "汉化工具/config.json",
+      "sha256": "657b4d147dda570a0c28c458f3de7258332df582aadd7e177712e2c983ba0d04",
+      "size": 1893
+    },
+    {
+      "path": "汉化工具/patch.ps1",
+      "sha256": "2a69d16e4683a78fbe9cbbff3ab7ef7d6d6bf2d402c05d66366b7532c843306f",
+      "size": 11455
+    },
+    {
+      "path": "汉化工具/xdelta-LICENSE.txt",
+      "sha256": "6cf63d87586c7c25c3ab8e62eef5c75bbaa982b0a6f9c00c59e2720255aac9ec",
+      "size": 9156
+    },
+    {
+      "path": "汉化工具/xdelta-NOTICE.txt",
+      "sha256": "3c0ba0f3990e2af60c66cfa034ff1cd59fae1029d092435cd691d4e3aede51fc",
+      "size": 120
+    },
+    {
+      "path": "汉化工具/xdelta3.exe",
+      "sha256": "732980d52f9220dc81817ccdd0c295eadce8a0048a24c2a771a73f791ac824e9",
+      "size": 340992
+    }
+  ],
+  "install_mode": "vcdiff"
+}

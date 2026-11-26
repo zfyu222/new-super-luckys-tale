@@ -1,0 +1,7 @@
+{
+  "store_page": "https://store.steampowered.com/app/1038300/New_Super_Luckys_Tale/",
+  "official_art": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1038300/library_hero.jpg",
+  "reference": "steam-library-hero.jpg",
+  "cover": "title.png",
+  "method": "根据 Steam 官方横幅进行 ImageGen 编辑，校对游戏名和子非鱼汉化标记。"
+}

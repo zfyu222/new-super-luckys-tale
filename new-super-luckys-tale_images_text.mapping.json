@@ -1,0 +1,1880 @@
+{
+  "schema": 2,
+  "csv_sha256": "43cd9e9c9930eaa6746562316840bd49d3bbb8e25020ecb2623432e2cf10d40f",
+  "records": 19,
+  "regions": [
+    {
+      "csv_row": 1,
+      "image_id": "4749c835d1928fe8cb5cdfb1a92f11bb68703be5102c66506949a1dd1d25b52e",
+      "region_id": "confirmed-4749c835d1928fe8-0",
+      "box": [
+        5.888,
+        59.904,
+        250.624,
+        205.568
+      ],
+      "sources": [
+        {
+          "path": "CFX_T_Text_Boom-63fe47d906b2841ef7ab.png",
+          "file_sha256": "03eb927f018f78d9f708922c7f84d0a8f824112ce53304fc6cbc654a4de620de",
+          "image_id": "4749c835d1928fe8cb5cdfb1a92f11bb68703be5102c66506949a1dd1d25b52e",
+          "width": 256,
+          "height": 256,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-7179381218511791667",
+            "texture_name": "CFX_T_Text_Boom",
+            "format": 4,
+            "mip_count": 9
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：橙红色向右上角倾斜的爆破拟声，感叹号可见。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\e6b084e80b5d6f83d13120857d93807caa86adcf5263cd21a527d0e9f3c944d8\\17.png",
+        "package_hash": "ed8794e319c3d4edb3e12e8785a73527e7423e14d8499a01f45c72feebb770f3"
+      }
+    },
+    {
+      "csv_row": 2,
+      "image_id": "085110f6788c5f02493912eb379c215f4e4941d56fcae91310c533ffc6fac2b8",
+      "region_id": "confirmed-085110f6788c5f02-0",
+      "box": [
+        84.992,
+        25.6,
+        440.32,
+        241.664
+      ],
+      "sources": [
+        {
+          "path": "cover_02_LR-2612aafbec32a2b3181e.png",
+          "file_sha256": "055e7a4e6c9c0df5b54d36ded0e9ba747ffbc14fae5c06f4d30e32bf77421881",
+          "image_id": "085110f6788c5f02493912eb379c215f4e4941d56fcae91310c533ffc6fac2b8",
+          "width": 512,
+          "height": 512,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "1820984902644265953",
+            "texture_name": "cover_02_LR",
+            "format": 12,
+            "mip_count": 10
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：纸张版狐狸封面上方可见两层英文书名，保留纸张底纹和狐狸。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\e6b084e80b5d6f83d13120857d93807caa86adcf5263cd21a527d0e9f3c944d8\\16.png",
+        "package_hash": "ed8794e319c3d4edb3e12e8785a73527e7423e14d8499a01f45c72feebb770f3"
+      }
+    },
+    {
+      "csv_row": 2,
+      "image_id": "09c0d7fe5819e41534888c4678f947cb9c2fe300f251537952d836c4f9c0f5d1",
+      "region_id": "confirmed-09c0d7fe5819e415-0",
+      "box": [
+        83.968,
+        27.648,
+        437.248,
+        240.128
+      ],
+      "sources": [
+        {
+          "path": "cover_03-439f72c171806d0552ce.png",
+          "file_sha256": "5373176d64a1edffc684874cbd419c830eec0f567a45f7f3f1914a8a3e4bcaea",
+          "image_id": "09c0d7fe5819e41534888c4678f947cb9c2fe300f251537952d836c4f9c0f5d1",
+          "width": 512,
+          "height": 512,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-6572225335156534898",
+            "texture_name": "cover_03",
+            "format": 12,
+            "mip_count": 10
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：狐狸立绘上方两层书名清晰，左边橙色狐尾穿过两层英文。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\e6b084e80b5d6f83d13120857d93807caa86adcf5263cd21a527d0e9f3c944d8\\1.png",
+        "package_hash": "ed8794e319c3d4edb3e12e8785a73527e7423e14d8499a01f45c72feebb770f3"
+      }
+    },
+    {
+      "csv_row": 3,
+      "image_id": "ad42e926cfb02791bec446edeec934ed20d0d6505189d16e1cc81fddd26c4111",
+      "region_id": "confirmed-ad42e926cfb02791-0",
+      "box": [
+        24.576,
+        0.0,
+        988.16,
+        1012.736
+      ],
+      "sources": [
+        {
+          "path": "Demo_Intro-888e0185c30dd1468196.png",
+          "file_sha256": "8ebdbb5717db57db33e65dbeef0699ea1bab2c8c439b301fd950eeb3840e5734",
+          "image_id": "ad42e926cfb02791bec446edeec934ed20d0d6505189d16e1cc81fddd26c4111",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "1660817641391080761",
+            "texture_name": "Demo_Intro",
+            "format": 12,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：独立透明新游戏徽标，英文阅读顺序为 NEW、SUPER、LUCKY'S、TALE，白色星星与中间狐尾为美术。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\e6b084e80b5d6f83d13120857d93807caa86adcf5263cd21a527d0e9f3c944d8\\13.png",
+        "package_hash": "ed8794e319c3d4edb3e12e8785a73527e7423e14d8499a01f45c72feebb770f3"
+      }
+    },
+    {
+      "csv_row": 4,
+      "image_id": "d96b8ec27b84a04c3fffe90986e386654ddb271bc20b6b44cfdd06b7038e02d6",
+      "region_id": "confirmed-d96b8ec27b84a04c-0",
+      "box": [
+        251.52,
+        196.56,
+        1728.0,
+        619.92
+      ],
+      "sources": [
+        {
+          "path": "Foxington_Unlock_ref-9ef531a6e59899f858fc.png",
+          "file_sha256": "581760bb906a9ceeca100fa7f26bd8cf823367a828957b4b8adc0fd033481352",
+          "image_id": "d96b8ec27b84a04c3fffe90986e386654ddb271bc20b6b44cfdd06b7038e02d6",
+          "width": 1920,
+          "height": 1080,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "7794514214773217541",
+            "texture_name": "Foxington_Unlock_ref",
+            "format": 10,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：纸底插图中央有占画面约四分之三宽度的青色 Foxington 主标题，右下角符号气泡与插画保留。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\5.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 3,
+      "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+      "region_id": "confirmed-5ef3ff21a9ace3c9-0",
+      "box": [
+        11.264,
+        278.528,
+        307.2,
+        539.648
+      ],
+      "sources": [
+        {
+          "path": "FoxingtonArcadeCabinet01_Diff-1c9d4bb5be2a02a1105f.png",
+          "file_sha256": "2c3cbacd49baf19c906c3ce967fd861352c0e9a8c1f3fa2504be285157fca3c7",
+          "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-8562357860150671538",
+            "texture_name": "FoxingtonArcadeCabinet01_Diff",
+            "format": 10,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "FoxingtonArcadeCabinet01_Diff_NSP1-b2db250e7ccc1ecb19b7.png",
+          "file_sha256": "2c3cbacd49baf19c906c3ce967fd861352c0e9a8c1f3fa2504be285157fca3c7",
+          "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-3986942017781825835",
+            "texture_name": "FoxingtonArcadeCabinet01_Diff_NSP1",
+            "format": 10,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：街机贴图右侧记分窗的文字倒置，旋转后为 HIGH SCORE、JPR，另有红色 25¢；两处大幅招牌为同一游戏标题，需要定向回填。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\2.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 3,
+      "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+      "region_id": "confirmed-5ef3ff21a9ace3c9-1",
+      "box": [
+        384.0,
+        564.224,
+        681.984,
+        829.44
+      ],
+      "sources": [
+        {
+          "path": "FoxingtonArcadeCabinet01_Diff-1c9d4bb5be2a02a1105f.png",
+          "file_sha256": "2c3cbacd49baf19c906c3ce967fd861352c0e9a8c1f3fa2504be285157fca3c7",
+          "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-8562357860150671538",
+            "texture_name": "FoxingtonArcadeCabinet01_Diff",
+            "format": 10,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "FoxingtonArcadeCabinet01_Diff_NSP1-b2db250e7ccc1ecb19b7.png",
+          "file_sha256": "2c3cbacd49baf19c906c3ce967fd861352c0e9a8c1f3fa2504be285157fca3c7",
+          "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-3986942017781825835",
+            "texture_name": "FoxingtonArcadeCabinet01_Diff_NSP1",
+            "format": 10,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：街机贴图右侧记分窗的文字倒置，旋转后为 HIGH SCORE、JPR，另有红色 25¢；两处大幅招牌为同一游戏标题，需要定向回填。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\2.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 5,
+      "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+      "region_id": "confirmed-5ef3ff21a9ace3c9-2",
+      "box": [
+        719.872,
+        326.656,
+        964.608,
+        460.8
+      ],
+      "sources": [
+        {
+          "path": "FoxingtonArcadeCabinet01_Diff-1c9d4bb5be2a02a1105f.png",
+          "file_sha256": "2c3cbacd49baf19c906c3ce967fd861352c0e9a8c1f3fa2504be285157fca3c7",
+          "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-8562357860150671538",
+            "texture_name": "FoxingtonArcadeCabinet01_Diff",
+            "format": 10,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "FoxingtonArcadeCabinet01_Diff_NSP1-b2db250e7ccc1ecb19b7.png",
+          "file_sha256": "2c3cbacd49baf19c906c3ce967fd861352c0e9a8c1f3fa2504be285157fca3c7",
+          "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-3986942017781825835",
+            "texture_name": "FoxingtonArcadeCabinet01_Diff_NSP1",
+            "format": 10,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：街机贴图右侧记分窗的文字倒置，旋转后为 HIGH SCORE、JPR，另有红色 25¢；两处大幅招牌为同一游戏标题，需要定向回填。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\2.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 6,
+      "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+      "region_id": "confirmed-5ef3ff21a9ace3c9-3",
+      "box": [
+        704.512,
+        539.648,
+        805.888,
+        637.952
+      ],
+      "sources": [
+        {
+          "path": "FoxingtonArcadeCabinet01_Diff-1c9d4bb5be2a02a1105f.png",
+          "file_sha256": "2c3cbacd49baf19c906c3ce967fd861352c0e9a8c1f3fa2504be285157fca3c7",
+          "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-8562357860150671538",
+            "texture_name": "FoxingtonArcadeCabinet01_Diff",
+            "format": 10,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "FoxingtonArcadeCabinet01_Diff_NSP1-b2db250e7ccc1ecb19b7.png",
+          "file_sha256": "2c3cbacd49baf19c906c3ce967fd861352c0e9a8c1f3fa2504be285157fca3c7",
+          "image_id": "5ef3ff21a9ace3c9bcde34dedaacaf76f87dc95564df44efe3efb97056546b11",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-3986942017781825835",
+            "texture_name": "FoxingtonArcadeCabinet01_Diff_NSP1",
+            "format": 10,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：街机贴图右侧记分窗的文字倒置，旋转后为 HIGH SCORE、JPR，另有红色 25¢；两处大幅招牌为同一游戏标题，需要定向回填。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\2.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 7,
+      "image_id": "2e4fefacc80b3701ae570c02f615b3fa4ee23112706b3a88d3d3df8a7c141a4d",
+      "region_id": "confirmed-2e4fefacc80b3701-0",
+      "box": [
+        102.4,
+        447.488,
+        906.24,
+        671.744
+      ],
+      "sources": [
+        {
+          "path": "FTONPreviewPanel-0e8e8ca546428413f0bf.png",
+          "file_sha256": "28e14ab34d470fa89f697b16d224cf4043dbebc7dba83ae3c00dfaf14158808a",
+          "image_id": "2e4fefacc80b3701ae570c02f615b3fa4ee23112706b3a88d3d3df8a7c141a4d",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/resources.assets",
+            "serialized_file": "resources.assets",
+            "path_id": "258",
+            "texture_name": "FTONPreviewPanel",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "FTONPreviewPanel-f6808ffcaae6d1a6bea8.png",
+          "file_sha256": "28e14ab34d470fa89f697b16d224cf4043dbebc7dba83ae3c00dfaf14158808a",
+          "image_id": "2e4fefacc80b3701ae570c02f615b3fa4ee23112706b3a88d3d3df8a7c141a4d",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded",
+            "serialized_file": "CAB-e3da0394828f5a254f00126d82d067db",
+            "path_id": "6963007878540189820",
+            "texture_name": "FTONPreviewPanel",
+            "format": 12,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：霓虹边框及两个人物之间为青色 GUARDIAN 和粉色 TRIALS。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\e6b084e80b5d6f83d13120857d93807caa86adcf5263cd21a527d0e9f3c944d8\\2.png",
+        "package_hash": "ed8794e319c3d4edb3e12e8785a73527e7423e14d8499a01f45c72feebb770f3"
+      }
+    },
+    {
+      "csv_row": 8,
+      "image_id": "9cdd42793ab8d88048c8523f268154af5f7648964416fddca7d97b316eb729f7",
+      "region_id": "confirmed-9cdd42793ab8d880-0",
+      "box": [
+        103.424,
+        453.632,
+        912.384,
+        602.112
+      ],
+      "sources": [
+        {
+          "path": "GIPreviewPanel-2e28abf8cd15f6600138.png",
+          "file_sha256": "2798a34cae9b913db78135a7ebe0f5ce941c1cc0b74f080c4646456ffe8bfcf6",
+          "image_id": "9cdd42793ab8d88048c8523f268154af5f7648964416fddca7d97b316eb729f7",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded",
+            "serialized_file": "CAB-e3da0394828f5a254f00126d82d067db",
+            "path_id": "1040186843211178",
+            "texture_name": "GIPreviewPanel",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "GIPreviewPanel-5596942ddd8e2e1f4183.png",
+          "file_sha256": "2798a34cae9b913db78135a7ebe0f5ce941c1cc0b74f080c4646456ffe8bfcf6",
+          "image_id": "9cdd42793ab8d88048c8523f268154af5f7648964416fddca7d97b316eb729f7",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/resources.assets",
+            "serialized_file": "resources.assets",
+            "path_id": "324",
+            "texture_name": "GIPreviewPanel",
+            "format": 12,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：前景蓝底招牌写 GILLY ISLAND，画面上方有戴帽角色及棕榈。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\e6b084e80b5d6f83d13120857d93807caa86adcf5263cd21a527d0e9f3c944d8\\9.png",
+        "package_hash": "ed8794e319c3d4edb3e12e8785a73527e7423e14d8499a01f45c72feebb770f3"
+      }
+    },
+    {
+      "csv_row": 9,
+      "image_id": "eada8ae7eea3ad3baf59829c9d551f15cd54df71137da296f93fcb353f4b495d",
+      "region_id": "confirmed-eada8ae7eea3ad3b-0",
+      "box": [
+        768.0,
+        488.16,
+        1167.36,
+        599.4
+      ],
+      "sources": [
+        {
+          "path": "Intro_Loading_Screen-dfb3f1f14c1ee3d773c2.png",
+          "file_sha256": "25fbdfa3dae6b85931088413c0abdea17230fbf25e32cf51323c0890610a3ddb",
+          "image_id": "eada8ae7eea3ad3baf59829c9d551f15cd54df71137da296f93fcb353f4b495d",
+          "width": 1920,
+          "height": 1080,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/sharedassets0.assets",
+            "serialized_file": "sharedassets0.assets",
+            "path_id": "11",
+            "texture_name": "Intro_Loading_Screen",
+            "format": 10,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：开场插画正中能读到小写 playful，左边是独立图标。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\7.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 10,
+      "image_id": "8d7d3ac01a752caa9a814861c20f48881dce17c92aaffbcb2f0b27b56b7e05f1",
+      "region_id": "confirmed-8d7d3ac01a752caa-0",
+      "box": [
+        28.928,
+        9.984,
+        227.072,
+        241.152
+      ],
+      "sources": [
+        {
+          "path": "Loading_Gear_NSLT_Logo-da66725594a44d53a1fb.png",
+          "file_sha256": "a3afa42c4e7aa3e8f6af22e56a992a85898d9e576086d34a00d1ddba2ea7c2ea",
+          "image_id": "8d7d3ac01a752caa9a814861c20f48881dce17c92aaffbcb2f0b27b56b7e05f1",
+          "width": 256,
+          "height": 256,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/sharedassets0.assets",
+            "serialized_file": "sharedassets0.assets",
+            "path_id": "14",
+            "texture_name": "Loading_Gear_NSLT_Logo",
+            "format": 12,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：透明加载图标呈两行 N S 与 L T 四个字母，TM 是商标符号。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\27bee8bbd8824cf597f4d4efce3f8f771c3ca7a456d7000f5660d2daffce50e5\\5.png",
+        "package_hash": "2f80492a4031d8d0aeaac24c9a18ec39fd1b78325754f00838663817fec22194"
+      }
+    },
+    {
+      "csv_row": 3,
+      "image_id": "88205c4fd9e5b604e5894089fbedc53367b6e01f74d8d18d2e13515896f3ce02",
+      "region_id": "confirmed-88205c4fd9e5b604-0",
+      "box": [
+        81.92,
+        3.072,
+        994.304,
+        1020.928
+      ],
+      "sources": [
+        {
+          "path": "Logo-714f2c8883799cadbcd6.png",
+          "file_sha256": "7437a4013b74bd293354389106a287301991c0b4368e020b35da0ddc9074239a",
+          "image_id": "88205c4fd9e5b604e5894089fbedc53367b6e01f74d8d18d2e13515896f3ce02",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "1666915515964032741",
+            "texture_name": "Logo",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Logo-e96f354733b2e4977eb8.png",
+          "file_sha256": "7437a4013b74bd293354389106a287301991c0b4368e020b35da0ddc9074239a",
+          "image_id": "88205c4fd9e5b604e5894089fbedc53367b6e01f74d8d18d2e13515896f3ce02",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_shaders",
+            "serialized_file": "CAB-618bef6a04d26657000ca50e481876d2",
+            "path_id": "1666915515964032741",
+            "texture_name": "Logo",
+            "format": 12,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：透明标题徽标上三层英文书写合为完整游戏名；右下角另有极小 TM，纳入品牌图形处理。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\27bee8bbd8824cf597f4d4efce3f8f771c3ca7a456d7000f5660d2daffce50e5\\4.png",
+        "package_hash": "2f80492a4031d8d0aeaac24c9a18ec39fd1b78325754f00838663817fec22194"
+      }
+    },
+    {
+      "csv_row": 11,
+      "image_id": "df752ca3dbf2604eea85c1dae073839e67c0c33a3ed7fdaae2f502d3a25a6eb2",
+      "region_id": "confirmed-df752ca3dbf2604e-0",
+      "box": [
+        70.656,
+        31.878,
+        985.088,
+        482.724
+      ],
+      "sources": [
+        {
+          "path": "Logo_Asian-767cb402718edb7a10ed.png",
+          "file_sha256": "d680bcf4a366f97eb1ce919a71a7aa1758ef9322583f62dc0f2986d8935683a1",
+          "image_id": "df752ca3dbf2604eea85c1dae073839e67c0c33a3ed7fdaae2f502d3a25a6eb2",
+          "width": 1024,
+          "height": 759,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-4112989309590140576",
+            "texture_name": "Logo_Asian",
+            "format": 4,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：亚洲版本标识上方英文旧版标题，下方已印有简体中文「超级幸运狐」。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\27bee8bbd8824cf597f4d4efce3f8f771c3ca7a456d7000f5660d2daffce50e5\\9.png",
+        "package_hash": "2f80492a4031d8d0aeaac24c9a18ec39fd1b78325754f00838663817fec22194"
+      }
+    },
+    {
+      "csv_row": 2,
+      "image_id": "5c6c8e3819ae132ecdc5a05f86d60df596b17b090dc4b772858e5bb431cd9643",
+      "region_id": "confirmed-5c6c8e3819ae132e-0",
+      "box": [
+        1.024,
+        0.512,
+        252.416,
+        252.672
+      ],
+      "sources": [
+        {
+          "path": "LogoLuckysTale-97999e283d352c2b3c9b.png",
+          "file_sha256": "f3968381f22bde634c15774193e15020904ab417fccf6cb8d84b6e7eb4f5217f",
+          "image_id": "5c6c8e3819ae132ecdc5a05f86d60df596b17b090dc4b772858e5bb431cd9643",
+          "width": 256,
+          "height": 256,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "5365469147099562496",
+            "texture_name": "LogoLuckysTale",
+            "format": 12,
+            "mip_count": 9
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：透明双色狐狸题材标志可清楚读出 Lucky's Tale，狐尾和白色箭头为画面形状。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\1.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 2,
+      "image_id": "263b1a2c12f3b2d01e36c8356a8b5faebe33a7d6fa29060a3dd6ccd0b8119488",
+      "region_id": "confirmed-263b1a2c12f3b2d0-0",
+      "box": [
+        59.392,
+        17.92,
+        316.928,
+        227.84
+      ],
+      "sources": [
+        {
+          "path": "ScoreBookCover01-d3f0a8ef944c4b4d406b.png",
+          "file_sha256": "4084fa0690f4f8a53ca48acec0a78580e3d19787f4df467c2a22311289a788a3",
+          "image_id": "263b1a2c12f3b2d01e36c8356a8b5faebe33a7d6fa29060a3dd6ccd0b8119488",
+          "width": 512,
+          "height": 512,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-3967795332699145707",
+            "texture_name": "ScoreBookCover01",
+            "format": 3,
+            "mip_count": 10
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：蓝绿色书封上方有橙色及蓝色分层标题 Lucky's Tale，下方角色不在标题范围。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\9.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 12,
+      "image_id": "6800f1b72a1a16a9b79e6afc1848da8e6ab08c599ed91591b37b1463843460d1",
+      "region_id": "confirmed-6800f1b72a1a16a9-0",
+      "box": [
+        125.952,
+        107.52,
+        905.216,
+        923.648
+      ],
+      "sources": [
+        {
+          "path": "SDLT_Logo_Stacked-6925f9f14865a95a245f.png",
+          "file_sha256": "bbc8b8d0e6a07283757214bcb89714049ae6c566f53b41f1227d0db408137039",
+          "image_id": "6800f1b72a1a16a9b79e6afc1848da8e6ab08c599ed91591b37b1463843460d1",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "2394998867614900000",
+            "texture_name": "SDLT_Logo_Stacked",
+            "format": 12,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：透明独立徽标第一层有 SUPER-DUPER，后两层为游戏名，中央有橙色狐尾。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\3.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 13,
+      "image_id": "df401ffd576a54ab584f54d2120aa7a3385f0a05ff0f9a2921393a17cf00eec3",
+      "region_id": "confirmed-df401ffd576a54ab-0",
+      "box": [
+        501.76,
+        387.584,
+        535.552,
+        397.824
+      ],
+      "sources": [
+        {
+          "path": "SkyworldPortalWorld-a7bce79ccd7653fe08ea.png",
+          "file_sha256": "5583b052b8f7b4d8bd78c01d78165246e02c6d59f8af6b3b147d3cfeded0eed8",
+          "image_id": "df401ffd576a54ab584f54d2120aa7a3385f0a05ff0f9a2921393a17cf00eec3",
+          "width": 1024,
+          "height": 512,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-1274246907358052632",
+            "texture_name": "SkyworldPortalWorld",
+            "format": 10,
+            "mip_count": 11
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：查看原生贴图放大裁图，两个木牌可读为 AQUEDUCTS 与分行的 HEAVY HEADS。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\6.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 14,
+      "image_id": "df401ffd576a54ab584f54d2120aa7a3385f0a05ff0f9a2921393a17cf00eec3",
+      "region_id": "confirmed-df401ffd576a54ab-1",
+      "box": [
+        836.608,
+        400.896,
+        870.4,
+        420.864
+      ],
+      "sources": [
+        {
+          "path": "SkyworldPortalWorld-a7bce79ccd7653fe08ea.png",
+          "file_sha256": "5583b052b8f7b4d8bd78c01d78165246e02c6d59f8af6b3b147d3cfeded0eed8",
+          "image_id": "df401ffd576a54ab584f54d2120aa7a3385f0a05ff0f9a2921393a17cf00eec3",
+          "width": 1024,
+          "height": 512,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-1274246907358052632",
+            "texture_name": "SkyworldPortalWorld",
+            "format": 10,
+            "mip_count": 11
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：查看原生贴图放大裁图，两个木牌可读为 AQUEDUCTS 与分行的 HEAVY HEADS。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\6.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    },
+    {
+      "csv_row": 4,
+      "image_id": "818ad560102886e982328605b13ea5fdab5fd3361a09716b3fe6eacf64ee9fbd",
+      "region_id": "confirmed-818ad560102886e9-0",
+      "box": [
+        129.024,
+        397.312,
+        915.456,
+        615.424
+      ],
+      "sources": [
+        {
+          "path": "Title_Foxington-0d8d4af5cd79a23f7caf.png",
+          "file_sha256": "078f057666a01555773702d73098899226aab6cfda591ff3ab4642966eb4f4bc",
+          "image_id": "818ad560102886e982328605b13ea5fdab5fd3361a09716b3fe6eacf64ee9fbd",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_shaders",
+            "serialized_file": "CAB-618bef6a04d26657000ca50e481876d2",
+            "path_id": "-964658131104829252",
+            "texture_name": "Title_Foxington",
+            "format": 25,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Foxington-5572f82d8e2a8e5ee3f2.png",
+          "file_sha256": "078f057666a01555773702d73098899226aab6cfda591ff3ab4642966eb4f4bc",
+          "image_id": "818ad560102886e982328605b13ea5fdab5fd3361a09716b3fe6eacf64ee9fbd",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/resources.assets",
+            "serialized_file": "resources.assets",
+            "path_id": "101",
+            "texture_name": "Title_Foxington",
+            "format": 25,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Foxington-a5356c92c05c8bb508a5.png",
+          "file_sha256": "078f057666a01555773702d73098899226aab6cfda591ff3ab4642966eb4f4bc",
+          "image_id": "818ad560102886e982328605b13ea5fdab5fd3361a09716b3fe6eacf64ee9fbd",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-964658131104829252",
+            "texture_name": "Title_Foxington",
+            "format": 25,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Foxington-f767bdbfbcb375fbb422.png",
+          "file_sha256": "078f057666a01555773702d73098899226aab6cfda591ff3ab4642966eb4f4bc",
+          "image_id": "818ad560102886e982328605b13ea5fdab5fd3361a09716b3fe6eacf64ee9fbd",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded",
+            "serialized_file": "CAB-e3da0394828f5a254f00126d82d067db",
+            "path_id": "-964658131104829252",
+            "texture_name": "Title_Foxington",
+            "format": 25,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：透明底青色单词，字母上缘及暗色描边均可见。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\27bee8bbd8824cf597f4d4efce3f8f771c3ca7a456d7000f5660d2daffce50e5\\3.png",
+        "package_hash": "2f80492a4031d8d0aeaac24c9a18ec39fd1b78325754f00838663817fec22194"
+      }
+    },
+    {
+      "csv_row": 8,
+      "image_id": "a5fcab00e994d964f84c4e9ccbaca5d1dd9d8a4b6e9e925baf2dd4aa427ff9a6",
+      "region_id": "confirmed-a5fcab00e994d964-0",
+      "box": [
+        68.608,
+        405.504,
+        956.416,
+        611.328
+      ],
+      "sources": [
+        {
+          "path": "Title_Gilly_Island-1d2245aa621adf16fc88.png",
+          "file_sha256": "c09660d9b278af0da9da84c0266b8955767a942daadd3a8fd5b9a3461020fca8",
+          "image_id": "a5fcab00e994d964f84c4e9ccbaca5d1dd9d8a4b6e9e925baf2dd4aa427ff9a6",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded",
+            "serialized_file": "CAB-e3da0394828f5a254f00126d82d067db",
+            "path_id": "-7964527330012662706",
+            "texture_name": "Title_Gilly_Island",
+            "format": 25,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Gilly_Island-354d6451c6f761be33df.png",
+          "file_sha256": "c09660d9b278af0da9da84c0266b8955767a942daadd3a8fd5b9a3461020fca8",
+          "image_id": "a5fcab00e994d964f84c4e9ccbaca5d1dd9d8a4b6e9e925baf2dd4aa427ff9a6",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/resources.assets",
+            "serialized_file": "resources.assets",
+            "path_id": "459",
+            "texture_name": "Title_Gilly_Island",
+            "format": 25,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Gilly_Island-af3dd51c624028d399ba.png",
+          "file_sha256": "c09660d9b278af0da9da84c0266b8955767a942daadd3a8fd5b9a3461020fca8",
+          "image_id": "a5fcab00e994d964f84c4e9ccbaca5d1dd9d8a4b6e9e925baf2dd4aa427ff9a6",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_shaders",
+            "serialized_file": "CAB-618bef6a04d26657000ca50e481876d2",
+            "path_id": "-7964527330012662706",
+            "texture_name": "Title_Gilly_Island",
+            "format": 25,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Gilly_Island-ba661ef51bb55a9bad05.png",
+          "file_sha256": "c09660d9b278af0da9da84c0266b8955767a942daadd3a8fd5b9a3461020fca8",
+          "image_id": "a5fcab00e994d964f84c4e9ccbaca5d1dd9d8a4b6e9e925baf2dd4aa427ff9a6",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-7964527330012662706",
+            "texture_name": "Title_Gilly_Island",
+            "format": 25,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：透明底蓝色立体两词。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\27bee8bbd8824cf597f4d4efce3f8f771c3ca7a456d7000f5660d2daffce50e5\\8.png",
+        "package_hash": "2f80492a4031d8d0aeaac24c9a18ec39fd1b78325754f00838663817fec22194"
+      }
+    },
+    {
+      "csv_row": 15,
+      "image_id": "9c93bc5f46cc2d844b0404408f55e0cf570aa352064fed4e7d234b6d7c31316e",
+      "region_id": "confirmed-9c93bc5f46cc2d84-0",
+      "box": [
+        0.0,
+        385.024,
+        1024.0,
+        638.976
+      ],
+      "sources": [
+        {
+          "path": "Title_Haunting_Ham-0b67b80c2a505b7921e6.png",
+          "file_sha256": "c39ea093d2b42d5240c16dfb63bf336cd7001ba3d467eb681e0893adfa59990d",
+          "image_id": "9c93bc5f46cc2d844b0404408f55e0cf570aa352064fed4e7d234b6d7c31316e",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded",
+            "serialized_file": "CAB-e3da0394828f5a254f00126d82d067db",
+            "path_id": "-2683201181975063869",
+            "texture_name": "Title_Haunting_Ham",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Haunting_Ham-422caa8ccf682dacdde9.png",
+          "file_sha256": "c39ea093d2b42d5240c16dfb63bf336cd7001ba3d467eb681e0893adfa59990d",
+          "image_id": "9c93bc5f46cc2d844b0404408f55e0cf570aa352064fed4e7d234b6d7c31316e",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/resources.assets",
+            "serialized_file": "resources.assets",
+            "path_id": "75",
+            "texture_name": "Title_Haunting_Ham",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Haunting_Ham-7de944f789e4871b0c12.png",
+          "file_sha256": "c39ea093d2b42d5240c16dfb63bf336cd7001ba3d467eb681e0893adfa59990d",
+          "image_id": "9c93bc5f46cc2d844b0404408f55e0cf570aa352064fed4e7d234b6d7c31316e",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_shaders",
+            "serialized_file": "CAB-618bef6a04d26657000ca50e481876d2",
+            "path_id": "-2683201181975063869",
+            "texture_name": "Title_Haunting_Ham",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Haunting_Ham-93d9913f2cd3c0b06f2a.png",
+          "file_sha256": "c39ea093d2b42d5240c16dfb63bf336cd7001ba3d467eb681e0893adfa59990d",
+          "image_id": "9c93bc5f46cc2d844b0404408f55e0cf570aa352064fed4e7d234b6d7c31316e",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "-2683201181975063869",
+            "texture_name": "Title_Haunting_Ham",
+            "format": 12,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：透明底青绿色连写地名，无空格。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\27bee8bbd8824cf597f4d4efce3f8f771c3ca7a456d7000f5660d2daffce50e5\\6.png",
+        "package_hash": "2f80492a4031d8d0aeaac24c9a18ec39fd1b78325754f00838663817fec22194"
+      }
+    },
+    {
+      "csv_row": 16,
+      "image_id": "a25b2eec2270a2de0a57b3b64fa8720f0b3f9e12b6130af33a197a4f71d46a86",
+      "region_id": "confirmed-a25b2eec2270a2de-0",
+      "box": [
+        120.832,
+        418.816,
+        903.168,
+        605.184
+      ],
+      "sources": [
+        {
+          "path": "Title_Sky_Castle-154af9ebddd5566d80f8.png",
+          "file_sha256": "7e8954713d1692778257f9b31a211220d4fabe421a63ce92506a79ae2818c903",
+          "image_id": "a25b2eec2270a2de0a57b3b64fa8720f0b3f9e12b6130af33a197a4f71d46a86",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "1952952787850858748",
+            "texture_name": "Title_Sky_Castle",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Sky_Castle-3e87dbaf16c2ecf801da.png",
+          "file_sha256": "7e8954713d1692778257f9b31a211220d4fabe421a63ce92506a79ae2818c903",
+          "image_id": "a25b2eec2270a2de0a57b3b64fa8720f0b3f9e12b6130af33a197a4f71d46a86",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_shaders",
+            "serialized_file": "CAB-618bef6a04d26657000ca50e481876d2",
+            "path_id": "1952952787850858748",
+            "texture_name": "Title_Sky_Castle",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Sky_Castle-7e6c0818a2b450519774.png",
+          "file_sha256": "7e8954713d1692778257f9b31a211220d4fabe421a63ce92506a79ae2818c903",
+          "image_id": "a25b2eec2270a2de0a57b3b64fa8720f0b3f9e12b6130af33a197a4f71d46a86",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/resources.assets",
+            "serialized_file": "resources.assets",
+            "path_id": "358",
+            "texture_name": "Title_Sky_Castle",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Sky_Castle-ffa8a066e4f2410221fe.png",
+          "file_sha256": "7e8954713d1692778257f9b31a211220d4fabe421a63ce92506a79ae2818c903",
+          "image_id": "a25b2eec2270a2de0a57b3b64fa8720f0b3f9e12b6130af33a197a4f71d46a86",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded",
+            "serialized_file": "CAB-e3da0394828f5a254f00126d82d067db",
+            "path_id": "1952952787850858748",
+            "texture_name": "Title_Sky_Castle",
+            "format": 12,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：透明底紫色立体两词。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\27bee8bbd8824cf597f4d4efce3f8f771c3ca7a456d7000f5660d2daffce50e5\\7.png",
+        "package_hash": "2f80492a4031d8d0aeaac24c9a18ec39fd1b78325754f00838663817fec22194"
+      }
+    },
+    {
+      "csv_row": 17,
+      "image_id": "5a6d1bed9cc7c0c71453ca647515f30b09fb8ce86f929148a52d4184c5390a9a",
+      "region_id": "confirmed-5a6d1bed9cc7c0c7-0",
+      "box": [
+        48.128,
+        416.768,
+        975.872,
+        608.256
+      ],
+      "sources": [
+        {
+          "path": "Title_Veggie_Village-8425705dd45dc4e72a92.png",
+          "file_sha256": "e36af3966f46cf0d5243b98d26da2a195506d1b3f6b551a21f4542dfbdbece56",
+          "image_id": "5a6d1bed9cc7c0c71453ca647515f30b09fb8ce86f929148a52d4184c5390a9a",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded",
+            "serialized_file": "CAB-e3da0394828f5a254f00126d82d067db",
+            "path_id": "3058143909074047426",
+            "texture_name": "Title_Veggie_Village",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Veggie_Village-a13fd4c18148fed5d40d.png",
+          "file_sha256": "e36af3966f46cf0d5243b98d26da2a195506d1b3f6b551a21f4542dfbdbece56",
+          "image_id": "5a6d1bed9cc7c0c71453ca647515f30b09fb8ce86f929148a52d4184c5390a9a",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/resources.assets",
+            "serialized_file": "resources.assets",
+            "path_id": "120",
+            "texture_name": "Title_Veggie_Village",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Veggie_Village-a71887306beb94436054.png",
+          "file_sha256": "e36af3966f46cf0d5243b98d26da2a195506d1b3f6b551a21f4542dfbdbece56",
+          "image_id": "5a6d1bed9cc7c0c71453ca647515f30b09fb8ce86f929148a52d4184c5390a9a",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_shaders",
+            "serialized_file": "CAB-618bef6a04d26657000ca50e481876d2",
+            "path_id": "3058143909074047426",
+            "texture_name": "Title_Veggie_Village",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Veggie_Village-e1504cf20f0a40e29f3e.png",
+          "file_sha256": "e36af3966f46cf0d5243b98d26da2a195506d1b3f6b551a21f4542dfbdbece56",
+          "image_id": "5a6d1bed9cc7c0c71453ca647515f30b09fb8ce86f929148a52d4184c5390a9a",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "3058143909074047426",
+            "texture_name": "Title_Veggie_Village",
+            "format": 12,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：透明底绿色立体两词，清楚可读。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\27bee8bbd8824cf597f4d4efce3f8f771c3ca7a456d7000f5660d2daffce50e5\\2.png",
+        "package_hash": "2f80492a4031d8d0aeaac24c9a18ec39fd1b78325754f00838663817fec22194"
+      }
+    },
+    {
+      "csv_row": 18,
+      "image_id": "167cb001f6f2a58ca65c6d7cc3b9b2d1041928d233bf69acd084ce8916a022fc",
+      "region_id": "confirmed-167cb001f6f2a58c-0",
+      "box": [
+        0.0,
+        419.84,
+        1024.0,
+        603.136
+      ],
+      "sources": [
+        {
+          "path": "Title_Wrestful_Retreat-01e577cd6a014a859cff.png",
+          "file_sha256": "eef0db2792e1377ccf0e2ee3b4c34d56febf4817f3358ef862a694343558f626",
+          "image_id": "167cb001f6f2a58ca65c6d7cc3b9b2d1041928d233bf69acd084ce8916a022fc",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "7533426732475912104",
+            "texture_name": "Title_Wrestful_Retreat",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Wrestful_Retreat-2f0f905cec2dd57ec19e.png",
+          "file_sha256": "eef0db2792e1377ccf0e2ee3b4c34d56febf4817f3358ef862a694343558f626",
+          "image_id": "167cb001f6f2a58ca65c6d7cc3b9b2d1041928d233bf69acd084ce8916a022fc",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_shaders",
+            "serialized_file": "CAB-618bef6a04d26657000ca50e481876d2",
+            "path_id": "7533426732475912104",
+            "texture_name": "Title_Wrestful_Retreat",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Wrestful_Retreat-6eab65a7921242447686.png",
+          "file_sha256": "eef0db2792e1377ccf0e2ee3b4c34d56febf4817f3358ef862a694343558f626",
+          "image_id": "167cb001f6f2a58ca65c6d7cc3b9b2d1041928d233bf69acd084ce8916a022fc",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded",
+            "serialized_file": "CAB-e3da0394828f5a254f00126d82d067db",
+            "path_id": "7533426732475912104",
+            "texture_name": "Title_Wrestful_Retreat",
+            "format": 12,
+            "mip_count": 1
+          }
+        },
+        {
+          "path": "Title_Wrestful_Retreat-c27c9f75f897bcd6e856.png",
+          "file_sha256": "eef0db2792e1377ccf0e2ee3b4c34d56febf4817f3358ef862a694343558f626",
+          "image_id": "167cb001f6f2a58ca65c6d7cc3b9b2d1041928d233bf69acd084ce8916a022fc",
+          "width": 1024,
+          "height": 1024,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/resources.assets",
+            "serialized_file": "resources.assets",
+            "path_id": "87",
+            "texture_name": "Title_Wrestful_Retreat",
+            "format": 12,
+            "mip_count": 1
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：透明底橙黄色立体横排，字母均清晰。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\27bee8bbd8824cf597f4d4efce3f8f771c3ca7a456d7000f5660d2daffce50e5\\1.png",
+        "package_hash": "2f80492a4031d8d0aeaac24c9a18ec39fd1b78325754f00838663817fec22194"
+      }
+    },
+    {
+      "csv_row": 19,
+      "image_id": "f9223e9f72644b587ef876a064169ebafdd4236d6609a8177b30a547acf9dc9c",
+      "region_id": "confirmed-f9223e9f72644b58-0",
+      "box": [
+        105.472,
+        158.208,
+        450.56,
+        330.24
+      ],
+      "sources": [
+        {
+          "path": "UnderConstruction-53023164bb4abbebbe2f.png",
+          "file_sha256": "0df196e0ee1432a3c993e52c09c9e69fcdf40b37ff0650759efb365bc8a2a257",
+          "image_id": "f9223e9f72644b587ef876a064169ebafdd4236d6609a8177b30a547acf9dc9c",
+          "width": 1024,
+          "height": 512,
+          "provenance": {
+            "engine": "Unity",
+            "target_path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+            "serialized_file": "CAB-8f6d00575a6318a671aede5e29c843da",
+            "path_id": "7393638298200235565",
+            "texture_name": "UnderConstruction",
+            "format": 12,
+            "mip_count": 11
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "查看实际证据图：方形区域左侧是单块黄黑边施工牌，Under 和 Construction 分两行，连字符连接，右半只含工具图标。",
+        "reviewer_type": "conversation_agent",
+        "model_label": "gpt-6.2-sol",
+        "evidence": "tiered\\agent\\b0679abf4334326b90f68c73ae992a0657ffad85fe41c51c99b21bf7383cbc59\\8.png",
+        "package_hash": "19f6475b886fca9ac6ab151b2e294a135ed4fb263adba0cf415f53306b06c21c"
+      }
+    }
+  ],
+  "scan_hash": "6ff52088c19e360e452388240fd4662efb628f573f191c37e404735a94211058",
+  "plan_hash": "07821cb7420f58e4c3a3dfbab4000fb1025be8d03791674e80ebdbdff3174cda",
+  "unresolved_image_ids": [
+    "006f80f0582f0d675134a6a02694e894034c477eea21a95946df719cafe730d7",
+    "012777f71d4a7a9e2de0f2eb8fab41776514e4dc59c8453a74408b9d7c4ff125",
+    "026136e8550998f7eec7cfaa7442f66cb47da22d7247e3c545a61c06b71b8ec3",
+    "0324313015243f02e967cda037fbc35debe21cf88b44eb4972049606f9da6311",
+    "04f745f634a87cf5b7d2d1dac127796af2842bb3f791345d472a9d8b72e93169",
+    "058b9ccc7b4801bed5b544e09de75a3f66c1a4c4bf6ef963b4451f6a520c148c",
+    "05e535c2e89c9c328551de75ec94ab5b9386e3112056f184480a57d1ca6a4735",
+    "060a7073833ef4a52926321b6bd31fd3dedda08de1f1eba07aaabd4bf2c5e018",
+    "064032800d72fae227fe85b23b51048a0d2d8aabdad95b1a52b9b01f31cde943",
+    "070ede7d6c9d9a8faf0d5869ff12086f0c6183a4b27c4ce55da9ff136a24b79e",
+    "075ec05d3cffbd185ec6e342930ab086df47f6cbdf4d6711ffe994f06538df3f",
+    "0850eec754eefa37e90e8f3a8b5e28c19321b8c87f09a4d0aa1a601f6fb1338d",
+    "090fd903ce54818def2c3c83bfbdb29eb30c5d55568c9de943b5e5a548e393f7",
+    "09b87b05b7791b5087c02e08bc2e45386db2f7a3c34339a6511af08aabbd0d7c",
+    "09de9c114398dc275ac890aa0faaa3d8eacc58875a9a481f54c5e60b1a0c8fef",
+    "09e3f8fce067eea23bd9193f9219651d5d0e3d1f2ae5630de0cc3d786d57e51c",
+    "0ac1323d2f446c7ae31a20594e9ec8fe9db92f30c38f4672a667c9ea3f798458",
+    "0b28d4319eb487b55642e9a24f9f9eb14ceea1ecd0aa4a54605a35565d93796d",
+    "0b7ae0f17cc6017220baf276f64374d426a120a38649f7b786846d1b00610aab",
+    "0d0e9e4e723632758719edf4595c736db69fbfa31f33a3eba61ed694f352a5be",
+    "0f2f12e8de18c2899cf67bcec5b4a769cc338649d67286cd7edb6b06f47ebe6e",
+    "0f9228164948314b4df65b5b498c8cff2dc3ed8c6fe9660e3b9a4efa4c6df9a6",
+    "0fd0729d55fa34362dec27f1e1a70c06c9dd7b0af33e6bd8b4ef02f33ae4e5e2",
+    "0fe100617f63ab2fb26e081d8fdd25b3687930a9b9833c0f99ad7c125e8578cc",
+    "0fe2917d424bf4f574fff2e0dd1ed2698087d73085c0999089be03283f2b5949",
+    "10c39ed9b5041f7bf77766bf32eec8769dcce6d86d973eb4564d3aef43232e96",
+    "1108069c8a63cd9cfd4cf9a9ebf5e44da058a0a2dc586717d07a3a8f9c22a597",
+    "11c6b2774fe75c92cb27b77f930b38a83b12af8a0402cd6e007dbec69e60d293",
+    "13029aec3dd4d1a93eb304461bde5bef8821e71a866e407c91e6709333a0cc7f",
+    "14ab39957bbe459c04cc69aea46e0eb96281dbb70214ebb34b82fa8b98b35292",
+    "16754b396d269f160bfefb8994de6d6251f38080ae6cc391c2cef33755ba07f9",
+    "1782bd3a2184ee9b0f612e455b44c74cc7d85c67ede2b4a485f75a8ed270f762",
+    "1796f83fd9a40da99431e2dce8d494714f5d97b718e5afd408bfc5473a088e15",
+    "184060296a08d8d24e8e732ffeabae5c2ef5c73bea64e22a8328e7420e57236b",
+    "1845cc352e07a9d35e7857e5fa8c5cacd29b509e4f029973b79db204ee6785ed",
+    "18b37cfbed0104cc4e64dbadf8d1c205079c50e8c16f8f18bf925eb81d7b3ef0",
+    "18fdb1580c98edd39f4447f80044840de98a889f6211e0ea0a0db1ea5fd18dd8",
+    "19123f7476557794079c82f20d3b4197e767287603291760f1bd13cb83d46bd8",
+    "195c4ce0173e0165a946573acd84e1eec5c974418435409e23dd187267045b03",
+    "1991f88a19c6742af92a60e697705ffe52924e08a4f3346817325ff8c4eb40b9",
+    "19d9463d7f436456d6e617603c3d96b003ad7189c5c7732f80e62d6164345ad3",
+    "1a5b925bfefeff910c8d5354948d18287c0f932d97c7a00c39f0313cef1b5121",
+    "1b895fbf81f3ea0a197207f2b6ab727d30bb091012ac081555654c87dcb3b318",
+    "1be3522fd7dad7573fe10f26a54bd6bfd4743eba6847c85c434b20c8a31affb2",
+    "1bea0a842c4bed03a15ff9ba9034be2d7364731cff1aba06c8d70fcff3448f06",
+    "1cc47c1ca0b309d1e263ac7f48c5a31c8aeb0657b06a01764b13124c09e0273b",
+    "1d16624a33471719152920adf212161e60636fa4a5c7021974fd7e3f72abf6e6",
+    "1dcf7a5c562c596ce7a474f8ef2785b91e62759404065b35bb756855084e2a31",
+    "1e619e449e4b9e6f130ca6ed1eafd54c18a3f1da1c9cdc06f6a024161e2f55cf",
+    "1fec71c82c81042c1cc07900b5d091b2547e567c589df59f63f75ab8abf2351f",
+    "2041aa21c0e1e0aae1115975a990df4dcedd0709019ab3b0102a2ca904669d86",
+    "2090c317fcb7c85038734423667314804b09a1d541e982c899fd27220a56cde7",
+    "2095b57c3eab95dde9b4dfb2d8b1892b725b4ac1a450b88d5e876b5717ca967d",
+    "213f6e6a11129f6e55e101bfc58a7cc12b6efd5f422f416d72bf4603855877d5",
+    "2182d4cc0085d31f4b8f817c37b1189ebfe768866947ae6d05d333ccc6662181",
+    "21c9923f73bd427106d607e6854c310f0655628b23386d1a394b85a6fcedae9e",
+    "2269ef6a20c307bb33482fe8fae9706aeca7c7ba7523ff33287da9262f67a10f",
+    "22d26eccfbd78755ba320bfc1108d1705f93a749d346035d1879a7dbaafacd2c",
+    "23668905512b22051e61ca59399b73925409084b233b02a21ff1b403608c5f25",
+    "2390aa2a3741ea5e7fae83a2f2ee6cf3fd9497779d7c83619eccb695979a1e21",
+    "23a9a65a3794d2535bfbd6d2fccd2ea2b415627b95e92e52a9fae6f760d426cb",
+    "2441253651794a662bcaafd1e1c2b946e9a213e67564af9e747b9022b0e669ef",
+    "251ea2cbcaa39d02d17e24d0d6728a804c6915235dd314cb918e78dc14c61ceb",
+    "271d9d784bc6d4f3b139f82ff9d4bbe221643da2e206035ca7ae0f74f89d4450",
+    "272314519d88304533dd60297f4ab89c4c98c630a4132317db3c04eeb72c046a",
+    "27a39774eecf7a407b843221fcd1d55ee5bd407f3d34686d43307c72c180f483",
+    "28996ddeceb6b106583e8d4073eb24bfb57b846fa5be853d2b605d2ea0a4019f",
+    "2921a78ad5581683b6a195fe16fc8ee813cab91b2a4a568d9e97163f0d23f4fb",
+    "2969a5ab8eac2546cfa0906c1f3dc9f862be8da1dba90d04535746ec8d10a436",
+    "297970a77290d43f4e8b7883d5a569cd32bea735ee1b8c21dae33f4d8c6a750d",
+    "299635ddcecc39c86976a763feecd08608ea4e49cadf91262557dbfe738d24f4",
+    "2a2974d1e6dd7d355a013a04e915e5130b5ec023bcf75f0e7d03f94286b9464b",
+    "2a5e7afa52e72b8300a7a2e7f61e9474c1c86cd4b62eb625d795604456b4e077",
+    "2a8be91f280f05bf8801fe161b5264564d721f687926e8c68fd3f2bc8a2b27ce",
+    "2b462aaeddd049b9e43183da9d97cb338c1946fed7a815b1a214c4f3106309b4",
+    "2c4e5535511db220a3053b1249a616b5a106a137f29854b47a36af26f0e3284a",
+    "2c7fd784cd2dd9f1ce442a6274b91aac6a57ba1063910c29d0b046c8ad00a62b",
+    "2ccbca495f509b6e420938c2770165e619ebb08fec5b4ab987dc50016f5c45b1",
+    "2cd3bab03e057d2b8dda91fb8d2690161944a088ca2d7e5b0f2158b5c265b8fc",
+    "2d3875f97b516e9d49d9a3789a4bcef3a6d14b7adf1cdfd51115c1ae9670a369",
+    "2d8dc951e953eff924343a2c6865691c66567bf8e3f36f7cbd4c65dfc0a779d1",
+    "2e40c45911ab95a6a30339cb1b587ec9ef65a53eebf724f974fa6635cc0a9627",
+    "2eb2c47739f3d581455243fb6f7eb40ae3f7a116301125101a661e76b7a05d5d",
+    "300316e3ec2b5494d41904a7efde003facdfef4120b8a47d33822647dd114798",
+    "30678119d1ccbf67ad0e996f4df34a7efea87d48ea41e63551a60c696bc8ff37",
+    "308b3987ca8d4554b88a7264e54b45f21d67aa2f733a6cabf14c6766b4baa836",
+    "31cc0c669a4bd96c3d068d862784bb62fa8216b8ae10f831f381d5af0d3214ac",
+    "327fecc62230452614ea127f1ed84123c269a34c6ec44fe2b9a71ae383ca6192",
+    "32e3f3c49002c8c5e950a869cfb4670bbe488534198c07c6a54b767d20c86eaa",
+    "339cafdc896844c4b99a7087f758344c16b14549d5f2818b40a0674917a0c459",
+    "34e4f21a271011363addaa2ffc07ac59c1a73ba01951c4ae780bbb1e246f50cf",
+    "3520d602a94149d21fd682281f04a34b088bba0ae6d8d2813501dad7f89d0ac3",
+    "35a08479d75914598e6b48011fe3a2e0aaa6d86b38e89b34663262a9841ddf75",
+    "364a1c2f4a0a1217008ea1d4e239bfdf039a15d2876c54191260507e10cb326f",
+    "369a73b1913339f2125b8f4aa15999b365f3caf17dccb920490da0b1700a5bcf",
+    "373c6b941d03fb9512a3bcf4d8580b3f607e134fcaeeb12a9e819612ed1ddced",
+    "375a816a18511499fa90220e8d74ad788095801ee2c100104a29c534a3044a50",
+    "37ceb3d1b5789921922404bae550fd5af7afdc59cbac97c45f0e4ccf0609ecb0",
+    "3813392e2e797635cda2020c03e015a3716e8dd724d6ab8e6f2d7893be7e6fad",
+    "3839a08d45ab77be2fca1480bb241752c3e693dc0817a331b9bf2d59f18e3062",
+    "38b7049957ca8b5f69dc95034ae6b94dea9791f751c6fa07fff8391339f7cef6",
+    "39dffd8a3fa14d7fb200553fb894c643f81e7968ada159a122ef01c9515d4fbe",
+    "3a2ba89c76da608b70a423974ba2d93c9b4781697b1e6135e55bd365a339ebec",
+    "3a350c31b52ce48606a8a3cb1d3af0f96bd4ddf922586b10bd413373fe2bd141",
+    "3add50624863c5d40e1fcb8c320e92558b67d3ce07f990fe72942e6e2b32c29c",
+    "3adee218ea1fb3c7c2d2a762ff8d3f78c2b4f95e40efa67acc32116b12c32bb9",
+    "3af6145cafde36ff898842ccca25473ba0b35d69e742d19933b3929fd9f4b8e0",
+    "3bb70f0592782d08182fac8bc8238c2061471a4c48ca16535de5bd22d0e22638",
+    "3bc538e674c3a55a4600845463e84ba45397b7e536355d0a81f0c6c39998025d",
+    "3bd836c9e71091f02b60abdeb13e6d605154ce1603badbf2aa021e3996073c23",
+    "3c46ac453d35b376f5ab84bb2aeed47e62d2b7d47953c8d69d9defdaa2791468",
+    "3cb1d19a939f281bc3834a9835abc58614eef92d23e6ec82e8c20fecb5a37c0e",
+    "3cb3b8f2d7fb55b6697c421bbe36f7c407d3429647ba0a354da6523297decd6b",
+    "3cb712c59f83c5d93932d22aa24718fdf569a5062132268a32dd2d2bb013b864",
+    "3cd5fcf3f80c5e6c3a24fc1f0e788a8eea3a6ebb2a9633bd9b72cefbfbe955f5",
+    "3dea02aaf18cc5984b074723380e75cfd7e2c045426696593152a9a73e8a705b",
+    "3f1aa99fb1787d53520d9d03c2d4d1c3dfe12e11e5efb507e181d4b3bfd47e20",
+    "3f221f5b368a545df5456f7792ea9fee7e5378f14550d55bafad3547da30dfeb",
+    "40478b4a21e365d44275f82b37796a1b2a969865ecf185dc6b50f70f096ca6bc",
+    "40fab7e7b42487e53be90f3a78cb308554c757c21eab09a4485f60e8dd32f98d",
+    "412c7f21dbc0a5c45256390452aafc0617344d44b5057ec90ef54ae13e3d1d07",
+    "41de0809489cd04e057d87312c6f6378cf397d300d8c26b2e562889afe83a53b",
+    "4254206b633f5b2270cf4cb82f5b415abf8e082842d2b03ce00351e4c2cefb83",
+    "4310fb97f5edc9af266686f1b42a074a86d113c458faadba8daf69936e90ac2a",
+    "43dfa9bfff1c375f3acfceec619e18ce907ba7555e23c8f1cb399e5722602c7a",
+    "44ef325411506eadf5d9b1a7b2e1d0ab6763b8064de76c2db1ec4a9ec321ffa0",
+    "452cbf14c89cc9d30615074f77f91660738fd7b1010fdca1bea9bf7d4b3d24f1",
+    "4544f84db7353ec86846d8ad50cd80e31d951f9c0ac24e3231250fa3e8ccb981",
+    "455a9fc8ee5b21a5b3759827801ce94b940eb4ee045ea11309a9b68e38e79adb",
+    "45c0d8181a0c8da3f9324ceff141459adda6fd6afc068daad7f8e4e2674f4e23",
+    "45de0bfbe86a6a0a2b6fca9bca360f53efa8df5b6381e9e638dd3f2914e81ff9",
+    "469c019a3e70e7083408d18616fda0d9585a5f31eae28a2a68fadfc8fc110f72",
+    "474ec67afefc04a7ac924ae828054c7d22ce41ed4c93dd825b96ef40e974c07c",
+    "479071d98691bd2b6812b71149338eec81c57f75a16e40387ed0b6db695e8846",
+    "484c63cbd1f0ce7645602947ca83b86502b231bf87f2105d8a9ea1a134032e7a",
+    "4887df6a9d34cee69077882ea7a986851f552805ef3e74b2cad104f89f058b33",
+    "4915c0e305e4f66702cfe4d15f47fae84529f5b9578152b915f1535c35d66ef2",
+    "495b61bff414f39613b899d18217140d220268c0575c6c3ca837049cd2f3204a",
+    "4a984995b3fd883a6bf3d687c656b8b8671d8fc36dcf28dd0e500de51f79922c",
+    "4b0121a8c897a2ccc3bde5725f60aa964cb716c282839297a5c2eb4ed785ac3f",
+    "4b33a64c558713ecf708251112501cafc2164a658c66cc0663d839744bac995d",
+    "4b48805a5b92ca1155cd7f104829d417a887fbf01ae904b30e2c7647f2aee04d",
+    "4b53dad29aeac61bc0b808b619a687254416e24f5f27eb5e99f83800567ef25e",
+    "4bc3d48cfc4f78bcd1c68d6e9b4ac95e48e88591b5f71abd98a40548aabd5bab",
+    "4c5d29f734619ae9f84c527767443dd70ff8305d3ae26d5e4dbac2a4f5e7dae3",
+    "4d314ccaab9ab20c2133b8ccb485ab696120e5c9df2284d6ffe0d13179f30b8b",
+    "4d783456b3a94e5aafdadca478c84939076b64bb0dfd419fe59df1aab9f40f98",
+    "4d8114e81f25eae285b22b78c40851de3555e799f8a8897a4cfca6efe3c0aff6",
+    "4de3bf9ee3b87b71908a70e2c9532ec56877cc6611b6fd0e8e3c6ef5187a5297",
+    "4e0bf607cd4c56706cdc0e037cb9b96217e8e04b73955f8a5bc547044b11133c",
+    "4e2b9c04c34a42c4d2c7a02fe6da8f5c3fd5cb927eefeba888d591ea129ef772",
+    "4f8451b4e67ce5dc4b99627ee74c459b18e8506524c75756a985b652a91c01ff",
+    "4fca23666fcd3c57db7a24187366f4096df81732b42d462bc0ff2bebf6d638fb",
+    "503caa0eac02c733e7df9a48ae22efbbe447113a8a5aea6533b48b4acb011321",
+    "5054c4a2eb765c292062ad13422e663b2f0a0bbcf20baa8f3fd410ee5fee7c63",
+    "5058f9aeb36a6946472949e57b0bc2dc5adc8c6bcaab10fdbf58d49095579748",
+    "508ff8c0656ea09ad8e91ebe511e55729cd0e3ba56a96d2ea0783c6ac0106bc1",
+    "5110cf116d7769d24304276f1600933b4d9586ce8cfdfd3675696595051a19fd",
+    "517f24587f628a8a4e9e94141292d73e1be06b40af25d9ce56bc82626996ae5a",
+    "51f1ad49848cd497e7b0c97e30488919740e0396ba2796f7d6fb32e3f555352f",
+    "53091dae177341e7c0bb82cc897e38c34b8ce506284debf3d9bf2368454293e0",
+    "53a5e4037ad7f105c9cd886aee27d55346da6d48e5513584e21191683e2398e7",
+    "53d73827c84ec539f624400b7cbf894063913dbcedb52faf49486cbea0a12a51",
+    "5514acc32ec4d585774ba4ff41401fcb171f384376baabbd3ab28b3b10d12af8",
+    "5619555f44eb5d4a82a8f8cc74247567e02edd7518653879ad5e4b0090d1690c",
+    "562514a97041ca2e60748edc5325c5c7b3eeed59335da11c8df9dcc2ddfcbb8c",
+    "5709b93a82f2b356cb28e347bd381ae31ae40d5bcf9e419a849cb9709e63400a",
+    "57339b59027d141bcfe51a138df396af657fcb784beec9282e0db94586b93dd4",
+    "576c5dafbd196798c2d6411cfc41d8958d44a2aaa4071f35f9045562d131c92a",
+    "580fe28a9037e8bc1a0da6514f99302ff29808401c1694b1a324120669183fd3",
+    "58aa0b57d4a650bfdb45ff164dfe1c09d788f2253a6f5188b4cb232e415e0d90",
+    "58c35e328e41a9f04f5c6bdad4db2d87e9e144c4393f63ee76678a069e566478",
+    "59b9c45a0cb0e79a04d7e665ef3af2c1d4b5246139a66729aed68e3b288361b0",
+    "5ace0b0c22fe99363ad01aec44cdffc7e5e75a0a16c669a64147b1cd1985c580",
+    "5b133f74ca63cd658723c7ee8de15ec1cb025fa9d1dd27de5c2e0fc967c265f3",
+    "5b355b34f3dd0c5417207603d554b34b9ca0906aa4a80235d3aaca382d2db739",
+    "5db4e94083d1a59fc2938d7740545f738b6b09d30a4eb3aa660d9b82dcca729b",
+    "5e7f45e50be3253543ccdcd41944f41b797ebde14611dcb0e7fff490b78d2d67",
+    "618aa0240196a6264f1906ab0471857cc4499fe09fc18d45b788ad686bc59010",
+    "62b0defdc70746313e3380f708e43d5fefa720fcf935fcbaf2d9fc70a8f42431",
+    "62c9f294d3a4ad659855475951dce551bf989680823a704072db6e9be6b8f56d",
+    "63bf384a4efa5699a00865d57a16d2905ffb6aad8a6ebfb8d97d34fa8ef13f72",
+    "64002f56424c6b07aad269335e791ae92292dd659ff3efedd7d55fb1cf044331",
+    "640141bbb91846a68e69ba64f22c261077c8fc5c173730da92493f88df04d404",
+    "65271328e0f54e8f5cbabf9902d48b6937a1404898786147dadf037b77134ab3",
+    "6547ea0f7bea7e6b84ca978ccb25b91f7aa5c292c56d46dde7d9141dae73a1c2",
+    "655aeae617dc195c2edaec9068852ec60685fab9220e675ae13dbf4b165336a3",
+    "65ef841fc3085fd041932489ca70ab4f8a08e318e67f51cf4ac8b054a77d1c18",
+    "660baa5f3e18c5e922764d1b8f6777058a04c2c658c5a95ac7fcee8cb867ae41",
+    "662cffb457ac31d9dfe428d8266f16188d4fe83c7bbba59f7264d4a21709f469",
+    "668e9e393a5acbc16d46227d84b28b71c1b4b299a7586c893d828e6b97f85ade",
+    "680785806152c5721b1900d3d7e0ac2e22ec0a158a54c5cd599ad612b78df4d8",
+    "683e4e0ce6217e00cd65688163ce463e850039419adeb9b0d8057889dd3c936a",
+    "684dd2b7fba8b7ebfca843d870697897a4316cb50bc2569f8960991504fc1986",
+    "688a69341f0d2d59e18c3604fbf152487e27e022caf80f2d070a7dfd977db2fa",
+    "68c08a8c433139f0edc8b4aa0a9d8043c9aa86520966cc55cd7d6313442a6a49",
+    "68f7b1ecb509ee3b8ecd0afb9dc4bbf2d7c256b7e0bc4dd953079e4227c4103a",
+    "6ae1df701a00bad18fba77cda995b1b4612a4164b8c71e03e682318f908a52d9",
+    "6b59fa11bb98d1046c810171244ffd3d5756b071139caf423988600998de835d",
+    "6bf7ba7fc0f8b6137c79af46963ccbd4c1220ee5dad2205b24539b7fa9015766",
+    "6c4d8d2b5e044e4d649a02c85f27b2a7fa3bdc802c8188e96e2796569eb362a0",
+    "6d062b11e2d4c97cd42fd98c99efff7ad1f7eb1c3a3c5a39399f9a883030a4df",
+    "6e392da8328cb3d280d9b1f85cda104cc020c2692f0fd1c43fec74ecea4c8b21",
+    "6e4b705918240035e40770e3a3bc65810ce773f6f3b7f013314f477b617412fc",
+    "6e69d7ff64c257a2fb19d56e854e458d72c0fcc5ac45b92a1ed72215ccb81b86",
+    "6eb7e44e27a34a02f122cff128655b5527e371a7efb76c5541895c0e1c2df4da",
+    "6ed91e56040f7035249e2b75fc485c94a083f4ccc413627cf20d896ce82c5cd2",
+    "6f0cde93e3ffc124fb43a00fe5c5a696041f8a795a018308fa665df5c7f026e9",
+    "6f917830330dde57e26fad65db68db798d66ec67aeed5426497b8f44e3004cab",
+    "6fd4f44f78c970384f03aa70b12473eade7cdaac0290a0f3f6e5c49f6517a21b",
+    "70081145f2c6fd39edddae3eea5c38ef96c6123e38b058df029333192aea0d50",
+    "70391b8db165f267812952f51b3156939f7b736aff55154b9fc7db5728014d7d",
+    "70d151a005a2810c9145bcd0e013498172f56acbd1337dd327f293a8967285aa",
+    "7174c86e903e8ae97ca901e470a4a3c09300c816999988508f4c207ed7aa9385",
+    "717a346cbbf7094ff833f81f976bbb937801071b9a85fd556deeec2fffe4f0d8",
+    "7259bed6c699f299e9dbc784509d9d6ea659cae60ed88080ecfd5843ca4464af",
+    "725ab8cb252a9522aee61998b89849423d6adac7a90d536cefea1b0a37f51f6b",
+    "7330eecf1ab933547c6c69db4b6ed77a9fc5acb09cd7db3a5a497ae650106aa0",
+    "7331ad3897779e436ba62480906e38ce1c98f0b7d205e65b68d6782613880791",
+    "739e073d22382776a4c7dedf59f4f3c5165becb344783e629252484c9a680e62",
+    "73bdab792bc761c1c619bcd96a5f786a395c0cba68f1f22b01ffa0223c536519",
+    "7400467639e5a3ede9c853cd858a1ff1786eebf3794c912d9dd82c24252cdc87",
+    "747e413964e8a5558b91c9295dd7ac5c5496cfdf525c4175c3a2c2f798513087",
+    "74df66a27081e13f5e51aed3572278312c7285569f6475ec969996b846a7e119",
+    "74e3cc4ecaa94eb00164f2dabcd04714493c629ca2a19577ad4a70c5ef3e70cb",
+    "75c3fffd6572025c0ffe7459aa694e72dfdc9544221fcf15d75a97ed0fce640e",
+    "75c82b4903287dbbfe4fafb44e7c21b336ca482d78ded6f591cf854f85263a7c",
+    "76fec79a0ba5e5156de8d9a9edd98805ac8c32857a104b1898a3d2d4e0471d39",
+    "77a48477256432453f136485093467a1ffc61ef0da09957346d9dc96e9a143d1",
+    "784512c2b9d8e6833fddc94ddb080097a9833d889716ea811882e4385617afcb",
+    "78add49202e86aaa9c00ffb8ad1149325e22cc68e153ccc0a2ae942f0f4e3566",
+    "79e66d865d193ce0550dbee002ae641fd2ddc54f40107be5f2e837e4ef0c475d",
+    "7ab675a55c41756a04e937b0c3e51b315e097035b56a02ac51683be68055335e",
+    "7ab6b6d3390dda6bed6c76864c7941c67e9d2c76bae2d602b810eefba2355afa",
+    "7ad487bd380be125ae90a9ca681c8122d728f88121d9660ff9b274a47b2463ce",
+    "7b8ede1cc22996e46e49e45e9128859567b7888e72e86ea301688cfb9831130e",
+    "7b994958915d350a40c9a4d019fdff3ca685924c5d41c436003c3bdefc9f18e2",
+    "7c7d695aa2c5be3daa4b519024b3562327d99d63af90f6c67d53b969405ecc93",
+    "7ce99157ef155d6c0693af28bea6d5d2add55361bd9790a4b08a9e005c3ce4c1",
+    "7f2cbcd53a0d39e71368d65d673e581d3eeba9df05340356a479319f7031f003",
+    "7fe1e5d9c967aa5215c873b9fd7e78ae1aaeb1355fca06b0c74b33c8d4ae1b84",
+    "8079ed4507dcabcc6887ab24fffb48706f9a1db691f68a57771cad4815f40b03",
+    "80c73fa501eb2608c494a06fc12456b3c092e3080505f284a0dfb7674e395c81",
+    "815f2ee14f1bde4c22010479e6d6770faaab5046e0ad16cae3f02c6a48af208f",
+    "816af535d5548a74ffadb12125788c9c9eb95c79ceb9b4e96f192812547d30dd",
+    "817e9a9b7978a32ea3298898bfe5cbeb6a733229ad6b0e9db78791c0ee2daaa0",
+    "822b85f90508b751715e6ca3be25ee1f960de2b5da41a56c3cd50f7bcb8235f0",
+    "82a55e3136a979f7449b4d5d36629836cdc41741e32f7647ccced344593c16c9",
+    "832112dbc8d3b02cc17a536609ae7456308e8ed0a0ca5106ea9c1156f336029f",
+    "834bce0901c7439498619d9d7be466ab1b86a9ea8962e3d7eae25aa15d1f8c44",
+    "83debb06c7fbf891937fff2e3a652046c8589c229393c8942fc588f2b9df5d24",
+    "83edcd61a9ff854827f49716e6e72f460a6c4073f6c984cc466bffdd4ac8f1fc",
+    "8404474729d443383670b8f0c8cfafeb10e2d9dc42035a50a4d33a016082dc95",
+    "842b0720cbd58ecfd9440e12b4791666fd20dd1070b16cd13cd08c825ca23f46",
+    "8440659d0729554baba02b27be5389e137a86adae69e8d06181ad09ce35a5b71",
+    "85dfb1bc82e105f910f13ed5225a0a8251943e047667b85faba51dd6acaf6745",
+    "862572d3f3c5f6d20f4dec6d21121c10157129c66f79323bdce3b2cdbc530b5a",
+    "8679c2a0a58ed4fd29083869947c2accc7c9ba697b40fc8de5d56a26e67dcd48",
+    "868aaf6864ad6279a171e5971a7528044940ff2f1843fc71025d95959ecee799",
+    "86a8d9c4575f091e05d5e68d4ea0a542e6f09291b117c0293d14d5607af470cb",
+    "8781bc8926cc1328960c00cf83c9f178969fe7d41bc608201b3adca25b9e90d5",
+    "87ce365b373bc796ec45c3e13cc3574b52f28e7bd9471cfe94494e44edcaefb2",
+    "87e278431eb2380a169df5e5d85de45c33940595064cc286fef3103bcb5327c2",
+    "87f8c4e1f6b91885e1e4d7015428857fab49cde1d734d4837738571c3e0dab1f",
+    "88bd588805bb54d92cbd72c252ba3429ccd50cdd9579a3eaadcc8650bb525b52",
+    "8935f34eaa600c52ef6ce411f73a9d225903a0881cc935a3701fe648dbe70232",
+    "897fb6df61e4e507fd50b6ce72d34f8891b8c747ec131f0a4fbc7549830c7406",
+    "89ae2dae6a62a67fd82a46ba381d7daf659100227b72a28e1b64a6dbeefc7669",
+    "8a891d2d8a00c79edaac9869436035d7d60eb957914f9a1f7c5349e3129dac34",
+    "8b6d96cbe1812b4f1d74f37943eeaa9d24fb6be77f01c1e2b444fc763d64bc2d",
+    "8b7748de08972eff9b72ed44f34fcdcc090f3dd8addc7ce9ebacc2e920e049aa",
+    "8bd4db70f5dbe91b6ce56eee399ba31a1ef196761c9eecbb7e994162399b1502",
+    "8c32971cec814154444c0489c79f8c0d78e04c2cde08f63e20db98df67c68a2b",
+    "8ce1ffa3303e195418788e5e0c0896266174a2eaf4b1876fbb803825b4d89557",
+    "8d990ecea7c6efedc90a638322e34f5f9b3651b3ec13719992e56ff5fe10f49c",
+    "8fae00e4e28e092699d5b55d41ddb7331565d4514e06188cd635e9c686660e06",
+    "912457464c197147520392434a35fe71289375928fffddbe81b471aefa36a495",
+    "919b3683a34b6412ec7310c3963c87a976ed6f1e18215cd43812d384e9f6f1cc",
+    "919d03412df069b6264689376d8cecad493a74b263e615d4e0423d744ddf5eb0",
+    "91f6d6481fc8e91854e176b1725548b20c9ca5be6ea2c9260003537041a0f39c",
+    "926ecfe9b23f17c2108573d002b6e7dafffbae0874772eb5fc8466fead97dba7",
+    "92845afbfffc75d352a508f96043bcc8321a712a65db19191e5e32249ebc0ab2",
+    "93744badbda2094c944b9a12ab9bec7061a975cd42ce7f9a9be3f31170cc1730",
+    "93d4343cb0f0f71a05eda49a7ac96f2e0c3df150437759e8b3c9a1b87d8c4ff5",
+    "94c767abe6a920d2ece81f2b5b0633e16a92dcbcace1d04488a83feceabe2bb9",
+    "94d086bcc807c05ded8310b4307d71694e69794920a1c0c72fd11633f847fc85",
+    "95187567e7dc2f562d59ded46b896999afa6028cf4c1000a95c454fd8fec8d09",
+    "959b791280ba63bf01d6eb2f1187fb051e1acfc9d13e6be2b51da709a110dcd8",
+    "95d7401bfb6d690eb623f9243fd847860bf8ff4c4d764cc7b1e4c7aa3c87f2e4",
+    "9b10e6d3c2988d8ac4783cffa916916408e6396a83edbf3566ba1067b0712c2f",
+    "9b35c9332b1937dccd3f0e8bb9a15c7d46837d486a4087ef1a628d72aa10850e",
+    "9bd5f931a1abd8c90e93d3ce176ac3f9e6c85cb145533406943510b345807cba",
+    "9c0edf75ef8685f7ccc3fbf4ed58ab4f59b85a13a0f967f8fbda01a4c5fbb782",
+    "9c2e810df570b71b959f52db04a76d1a4d983e754c28218724df1d9f6227626c",
+    "9cbd0370b09a2472274a4221d57b0b8471560fdc92423432d606367a02f9cae3",
+    "9dd3287371760dcbe5b2f955029eac319e08d6d7db357ead901eac1e0b7e5d37",
+    "9e3a1bcdd52c2dd1a0996a8e6dafe5038e2a9b4d9bc513041bd7586aa31131f5",
+    "9eeef836ef30f36c54f298f21a4d0b3338b6c0ff8b22111b9f457c4fba162ab4",
+    "a0e7ab3a21f8e30555c1d33aca69196be8b2330812be792c23304a1158a2b4e0",
+    "a0f2e3c406aa3caea858952b07f8f5db70859348b368c44f520e42cd333f06f9",
+    "a1070073afb362b197bc14379e0f7e215936dd78b8779efe3ecb1c6c06905f04",
+    "a112aea1a26010ce914bfdbd3aa9aaca70c9333b4ffccf1fdfbb5a0f33815388",
+    "a23177ed3097087860feaeae1873a562326394f32153d87eabc7b214cb367932",
+    "a2894a534dfdea0b51da08b347c7fdeff1484e6f029c14c3f33d9f98166a88fc",
+    "a352da61a036c414fdedbf957c0b68a535a87a79d870f0db8a7810fd5b629b4f",
+    "a3839dc19384e18995a18070d2c764aac6744a48f83c0f46545501fcba977e5a",
+    "a3ef559f658746bd95370b32bd8af81c7ae2a076bff647dba0880cb0552a7321",
+    "a4323eca5860845acdf149a9716713c2c35ddda7d68d4a73e026bce02927e962",
+    "a44434685ef786cd12f8e251877eaf4b3b0bc99356764fc0ded4787b489db5f5",
+    "a47d92a00ffa0bd39287bb16d6f770714ab9699d6f578402a2dee499c26f4523",
+    "a563f26930c579c1ef7ffe4f0bd7a5f5a3111337efe7d52d8877ab85106dcd58",
+    "a5789bee6a6fdceb987be3fe0ea41e9910bd9004db121d45305c170bdea1d759",
+    "a643565dd8f7d3ced697babada3235ed6136e57e55e9709f47c70136ab4a1c20",
+    "a7264b1a99df5c4b2e4cac7e989b67bd3bde82ed6bfb30c98ab5ef88b98d1074",
+    "a728a87d5408b283569a4edd786223bf695bfbcf6ea05394784f3ada5a615cc5",
+    "a7d87b655dc8b8a0c569cd135f1889355545e2f46ac0535b49a8e902295708d3",
+    "a81583320ae467ea4e203807caa9accf6f58b087192f3fa37d69c40b8d78aae0",
+    "a826d9ded71f96ed06bdecba1b6a417c453400c750cec0275288bf030c160163",
+    "a899aef2a0eb69e2d7b89cd0b330886beb73005b2cb08b417bde4624dbcad834",
+    "aa59970e1a7c6d02df9fc04fd7b5216343015455e3ab12a52d3c4e1e805232b5",
+    "ab8b3dd93d6cb0d82bc6cbc96c8465693ae73415183b6b5fc440cc7fb632fd4f",
+    "abd4508784e48878da3369b00bfc4ea7b81f555330928d88d69562deb6ebe564",
+    "abeb57dd1464299eaa7be030c4c6bf4a1a7c2088c7150737ad0afcb00fdb5307",
+    "ac7aae1ba051a53f219b4378f0e38699bcde5b6668f52cd762a5501b635b17e9",
+    "ad49a42fded02438ccff81069d7c5455eb75fd6b32b9bf8f5d205c69d86f7bab",
+    "ad81cc54cc8476043b802d2740c47721d8384732b1feac3594dfbd679f716de1",
+    "ad8eb7df3505e36eb9a25233dcb0116f1164d357dd494f62b39fad0835ee816a",
+    "af926bcaf9c1bea52196c79dcb6f736b5c59c83de6bb628e2e8d67b9b72b0f60",
+    "b075fa64b9d226e5568563e80f8e6255a88677b6e1ee4b26c7b4528fb697132c",
+    "b0f420a179e3e41421f348144143c333052f00f33f8176d01afe9aa330cce04a",
+    "b1698b74d0e2081682cea6f00b1001becd3af8fe10a9400b329897a0d9021f10",
+    "b272540332530253096556744742087da028a119947ad3ace5b02d7d63de223f",
+    "b3743dc7e2b6973b4a859738c492294415531a8d18a95d10e25ea27ea659095f",
+    "b3745e16724d1a512feba8c0177595d5b6202fd1ba84a264508eba2db7e9de04",
+    "b576ffafff948e50593d29aa9f3e5a551333e6a9f46e7fde69c96360d5a99af9",
+    "b5a4d05ee8b204fbfc86992f44598858b2116727f194c1aa9eb28ecb09d65c0b",
+    "b5cd6097ca5785ee75da3117fb1b3e8b65b145613083db65f2845fed07210103",
+    "b60d1ecb389afa9cc6e233adabfb001daae01e24c1ed0a5ca52965d785d17de2",
+    "b66ec10da17ec68cf6070e1a3a7ad875392cbf2f0dbb69b98775a71e945a61ab",
+    "b77aec552b4b999f1b9df8ef7b419f8b965bf74d343699c0bdc12eb2b9d40399",
+    "b78591219476d86305aa8791b4a7b99fe42f99087d7792b6848230eabb976f1b",
+    "b7972891946ba0baa48a5c60c708a4a58681734728bbbd2d6b02b093d14c6b3f",
+    "b986cbee8e3fd8b7a490ee95c7bf42aae2d3d1dce419a9181e755e0a73ba4fea",
+    "b9f528195b97b977d4d184baf6400fe5838c77c0eaeda106c661b45ffed87b24",
+    "ba1dedbeb75fade08c75e54ad0200b52962fe4eb1db6e21ba276e2c5130c2bac",
+    "bb3f6cf5d65f0a3e9a5d7e2e7f6b129dcb776200cbfb4abebddc2f03bc288593",
+    "bb752edcb12f8fccadda9e380039ac995bceb9bc9a18b45a41e7d78edbdc39ac",
+    "bc27fad0792118c9061fe637aafb24549b157f7d807b32b3731de46f67ecd87e",
+    "bce1d3722997904eba43bc61e4350b5022c85cf6bcf74301076ad1da89221587",
+    "bce555c2af33d9ccdb3b8714ec00363455aef9264b5cfc2f4f40a74aa6ad9cb6",
+    "bd49e3e114db1c10e7170b5d08dd9b908177720031015de261851ff25bd0df51",
+    "bd602515a84be269b2ce509934d50cbdad949fe80343479812258fa48a51ffdd",
+    "be9a0a9f1f4dc4388f3e6f5d8f729cc6312ff91592603c95d1cf38d6ba7eb224",
+    "bf30a34c79b92245f57813cef3d4a858e7a18ec32965232ea21af5250193f474",
+    "bf63fda2de0b83508191fcc852014e21df6046beedce2743249538e5166a2809",
+    "c0ffdeb62c7ae45b5821bf332cc04f399a1b49cfff7e71ddcbbcbef80ea6fd3a",
+    "c1738fa2baeaebfcf3a24eabd659543e4289c5c929233887187ce9c60896757d",
+    "c252eac70d010a5269a36c49bda3728eb8e5e87007b17b91648f4fa08989b53e",
+    "c2bc76b31bd8d73e9b8693f8c0e9327d06c71a777d2e3dea3ebff41e8b007a50",
+    "c396395fee039fbd9abf97792fefe1d4db12b72907f494681e2f6e02d9e66769",
+    "c3f9c22f60dbbb19a1c95fc03ca45a074c6d0140c5e34fead5be87fda6662fb0",
+    "c43a278de09dd06ff44f7e716225fb1f3f9294cc2234987fc4893dbc4310178f",
+    "c555554517863b22dc28a819b37f0c0f9ee71cb3b9cb687ed6dc753367d8ba8c",
+    "c57c60bcb2c737dd0b8ecf2566802895eed75d3294bafa1939a3298a75b359cf",
+    "c7163b79e69f1c1c8476bc2a8f64e637367dc8f318bac21caec61cf624fdb9b4",
+    "c776dca53b8c8692d1d9f2df9a0484d81602e8805666f9d16687d99fe126e6d9",
+    "c80d007882c03bea8cc548d68a5865bdbcbce63bdfbe416c8628b979c4f770f2",
+    "c89aa79c72e9577dacfef0f59810496a801c0c9a06ab8f2502135dbdb7c7e683",
+    "c8fd542c5b487e64d4f9f085f539be6b3704903b586f12e70559a57c67b32e99",
+    "cc0469bb7a45893d945be219b2abc88a826cafcc88d16c3adbe35dd70aa751ce",
+    "cd0241385168de718e213df7557993ddfd30a6a469b6b18ef64e7b997dc13b3d",
+    "cd2e1e5ab2b101fad25526d09b50419b56ec392aef46386823dd64adfa39c460",
+    "cd5fd0351ab9cccdb3d35655810c10d09f9aea99f715ebe89629ee0977be8b41",
+    "ce3ab8f3b54e89040d18b524063aed2c3a88132c63e0a974d1b2dbf3a64c666a",
+    "ce43539b1077daf424b7fe346d99e5b49a7c288f63e95882590ff6ae7bd127f8",
+    "ce90e74ad20bd7472fc33b17fc16f9e8f10f994a7577bc87731181453525145a",
+    "cf425f767e9027a10227e19dad94f660487b21d10133caaedc0a7f3341bbaf17",
+    "cf5225ca25a24e39ddb255a718ecf4a5db3351602f5436e2672558ef81786e81",
+    "cfdb2637ccc02e4d395a38d9154496cde29dd0ff991f25f4489eeeac82d191de",
+    "d19862482f81cd5dc0b4240ba33d6b85eba3de3da3a555b15f0722cdb29be6b6",
+    "d19cad97fd65b572d12b56d9b41f8ef06eb8ffc9fb875316b40ee94fc8169aad",
+    "d22ef7d0c36c37a3a5153488f7040d67ce8dfd45532905d700495625b9833942",
+    "d27d43be2efece9aa1f888f1c1479474f73916e617e00e6e293a39038bb2578e",
+    "d2a0a2548301ea8296410a448df63606cacc5ff58504faa879e3cef26643d7da",
+    "d331bf84271e8df098edb1969f503513948b2ffeb27f5d8257bb4447a9eac046",
+    "d3b73b8a04acbbfb52d7a6b585145fce789c45a2704452dcd7698ed2f3ee9393",
+    "d3bb855e2381a5340c67e8b6837042eeb8a8838183e46203c0ae0a1bd2ac3427",
+    "d4173f96d99851aedf5a157b6302cb95b8df443ce2d7e612c3726326fa93cfd1",
+    "d43f8abfb45607e110c7d6524733481a95517f88b3bd5f614029f3db925fe75f",
+    "d4616106e7d3ec59cdfac08ca2d7d27db33b25c0583ba2c6ec392f743e6cba31",
+    "d4cf24b23fbe726cde851a101ce132d04d10b2ae309da0ee17b162ca53dcaf48",
+    "d559f30e1cfd3a8eaeee7dace3b4b22037e31a81804b3e326d559dbe3076f0c5",
+    "d55efce43e71f6ca37463a680ffa0c51464a7ccde0b6f7bda780991768a033be",
+    "d7546858fd37b1b2520b50c54d889767b9c94221f57453e7605b79f4ef76776a",
+    "d841d1ba4385d805ca53c10bab7aad88d86d1bbbdbb52619d9a1f0079831f221",
+    "d8bef5c731589038ba380f38159560cd11c20411dcf506995989eafedb2e3e9e",
+    "d9359b35ab8347b373716119079758b0c26a94ddd0bccbe666a7597d5c6ba855",
+    "d9f7576a454ab172d076f47b192d14cd71d48aba1311d87078568a57461e8ce2",
+    "da1206288cb45e5fe8427f66c3a81410614bd404a8c03aa65a4016c7c59e7769",
+    "da5c651ed0c14ea2e57760601eac639b5adef93209b06fd0a1a1379f7d4cdb32",
+    "daf9150dcb1af942302013278c5be08acee4e217ed81d191b205592f75e97466",
+    "db2922265bc9e413d94692d792e3252de470f1ac96c55c83831d186e71114c91",
+    "db711ff3c732b96710dfd573aad1e75ba703fbe6fd4cc27b78f29696b5ebf0ca",
+    "dba91f01d75251daa99c997a4f66df716f4d232aec3ba5fd4843308f45b7eec6",
+    "dbe66b516b562a46eaf6ef8ceb30e489fc8b0b99642db0db8743785c8ee50795",
+    "dc19567ff58a5695d677e87529f3e2b95fce2925467c64b963850ec30ca6b933",
+    "dc2c7f7c548d44fd671ed465806121e3de936c2ac71bc7abf6c8bcd5c2cb78a0",
+    "dc4eb7591ca668d207c43240980e7278c7590798768a36cd3b0b5f7d41cfa002",
+    "de575a9f50ef0b09015520724e1e34587a3652ef7b8632ce7952fd0bfcffd2a0",
+    "dea6a366821eee9150d4f623a9f216aa776c46015a887ac3a93f1b6627408db7",
+    "deb709eca0dbd60cb5aeb32fd95a2667d443f8d45845e0a9cc43209ee730244e",
+    "dfbb1aeaa44ce5c9d9d0d96a5f8acdfd4f081c3cb8d09610f05d4826973dc4ae",
+    "e00515a3f2237f9710bf9c646f334bee909e0373cc604a3cd1e63ae15712e3c7",
+    "e271290cfc39f12096003dd19b818d9dd26239d706e4600123b51cbdc8b0f29e",
+    "e34586db6a1b4f352a2dc6f462e248b03ac12244d7d182e1a8b0a4e0619d9a0f",
+    "e583361d9e491c34cc388a7f8c12d941b01e9fe63ce172bd4e424b95d92ada7d",
+    "e66e73071f89caa4849f93a856403035f144d4eb68944d6291cb1334a0784553",
+    "e76d04c746bb83b4cffd5631ca05ddb083bef43db4a1b16d0d99b5b7ddaab9a5",
+    "e7f9c172ceb0cf7c32ffba0c1d78482378aa961d3d2d79b946cd0d056e3d3618",
+    "e8675541b69f3f5ad0dd8e95687edd457794954211e5b86f07a594863745f9ab",
+    "eaa0d249646d912f0a6d6cef4282f846350ac70114bcbd103a1466821d016895",
+    "ec04cbeb8e27841a66bb34ecde0764964a97f0c8c939c6d4825483e0788aebf3",
+    "ec1a783714af594e3ee243d80e83cc832db5b4f2b959e0427867107aadbbe996",
+    "ec28cb0d035c6c20d14a00dabac5b75c2ede733b36392cc29659c83ac04d11dd",
+    "ec3b26d23c7c2b00523e6b943213d3af031ac99f6e31c202539d7a5ba903ef7e",
+    "ec6fcc395d88ffdceaab3b85ee95029bf77b11c02f449bd359b542fed79aa0d1",
+    "ec8b6060cde053f41bab6e934a8b3cbf2c534acab86a5c2ec76062e95a951c44",
+    "ec8ec3166feaeeecdf92c2c49a2d6f989a602c7759a991d483d89f090ccf1119",
+    "ecbb74530f8978c2261827bd70f6a2c02be3de9fda0fb5120aa7bafca58a0c04",
+    "ecc3103dd0384751504ade18d380b3f6cf9521466449cf02c1a1ccd9c1e48c0f",
+    "eda58a21f7ae8b8a3ab9ac03eb1858dc5b7aa2c4859b4ef50f77a51ea9eb3600",
+    "edb030576239ed6f10ce9235e4938fa41b352bfd75b5efb5640da93b3856d2ed",
+    "ee9c392812a2a708aeff7d40a5dae969fb8c3ad22441b941d763d94f47ecf83c",
+    "eedcd3257eafe398f71c568df1848176195aa2c873c2090a433f3d9b726cd0f8",
+    "eef110fab25c36d3712cd77557a73b994d50e7c7a97e879681f42f2a2d304377",
+    "ef710256dfdbd2863932ccda40c24e1a5d3b6d4bdfd9e7490f2bb20371e650bb",
+    "f02ecab45f56cc64cb0a8626cfbe261985d1c780513dc1039714b6820f7dbef7",
+    "f09275e723dd9020a866b5a7cb50ccc9606bc95dfc815876064706ef2a273e48",
+    "f0aae0bec70d4102d9715b4aafebe5e233e1def8c405da2e2d88423f3ba7de99",
+    "f0d18722e15c00d7219d37bf1acfabf2ca7fe801762bb99573d948fffcfa41ca",
+    "f1172e748165a266de6f9aeba27d0c462077fc7e086ab70f4c289e7f6d0303b4",
+    "f1b526af187c575ac59ea79a15b25034d086879208c9a2d304f04a664aa86536",
+    "f254e7833dcacbff9282169e8f479e7ee4f6d27e11fdc278bc669016ba86393b",
+    "f2fc8963afe6c27e450b5b3ab4cc8a7f655a8c692b9a9e6a25197fb3f4453991",
+    "f494b6a5a1aab09c9e3ca30c4bb80f0e520a7d9bf0299b02a1019b8b848c2260",
+    "f4adf790d7081235495cd45b849c69ed299807fad70dcaf0924ef2591a0d4d36",
+    "f52dbcfc89f15e5f541dbcdec7f7a400933f6f8bdaa00775ed2cd31d7c25c5d8",
+    "f543818215fffc3e237c11257441da757f60ece56b2ed7c68b3d0c97aa825d4a",
+    "f6bab645f97f9e7edbf73e47c12730d8f07feb01a5d4c8b208508c6b77d84006",
+    "f6cdd24d0e4653bef02d5171b4800482f36fab884691a6407f99cf391108d944",
+    "f7595cfc8b6425bbd523138209aea1dd580fa8f5175bf24c3f64e7f9701b8480",
+    "f7d462bd70b60a2dbf0d86ee297dd2f2f52e381adb1a79a8f1c7363ddcf053e9",
+    "f7e9deb4d907288bbb03a4a374a0234158b6f0778225fcfc65bd9afe0bd33589",
+    "f7f0f8d1a0734e27b1afe387f117456c023a7d601058d982a960fad2c64de01b",
+    "f7f91e9e54d3a92a0f116953d87de6a02103a2c4aaceeedc09452bf29fe58c94",
+    "f976e4ebc56536ead57304aa465acf53d085a3379c0923afe2d208f253e92493",
+    "f986a95559ebd337720e98cedafd859f6407b594fa1f9f82c18685964595195f",
+    "fc03a1f52da1f39ce812665f09fc6dc6091799cc54360d29a31b6da338968f61",
+    "fc31fe2162867140422dab1ec1e546fcedc7f952c950c75ec8d2b4a953fe25ed",
+    "fd1492b8d5c944e9cbba89ddafea843d096575dbf56ecbecdc9f9e5df1b7daf8",
+    "fdea16234c18a860d411d2c0dbaee454c5f55ea0e8fa3a3bd02bd0e626c0c880",
+    "fe3292900173a77b3b0a710f88238c238b8e2dd1c48f3419bcb801f276c984bf",
+    "fe3f2713120499d2e491960e0beb76b6691ab6c5b189d157d1157ae8b2722e57",
+    "fe73722afe3d1d3d4ade41c97150fd7e09f5ba7e5dc3a2b2c1fd210d42214840",
+    "ff3a0c60ef3d8407b4db24c804234a095fe3991336d3c119cc81d7c0a5d8779b",
+    "ff8d9cf42b50620543ef311f2f169455557e614d0e5974c9d1abdfffa2bb00dd",
+    "ffaf8fa934a8823669e98216691419005397e473c4648de79980e314f4911141",
+    "ffd869831d64a830b320e20fc02d1fa3a50d5e66c41ada9125335b59e1db7d94"
+  ],
+  "scope": "visually_confirmed_subset",
+  "human_approval": false
+}

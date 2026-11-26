@@ -1,0 +1,103 @@
+{
+  "test_build": "local-v1",
+  "steam_build": "10670184",
+  "image_scope": "confirmed_and_visually_approved_subset",
+  "unique_images": 10,
+  "texture_occurrences": 29,
+  "installed_files": [
+    {
+      "path": "nslt_Data/resources.assets",
+      "original_sha256": "055a84552be4b9034326ddf19d84e08358069c178265a9236231944235f6f624",
+      "patched_sha256": "6c7949157faf886835073c4bed87ed2e90c40499a5b708d45d467c4a5403383f",
+      "bytes": 54291968
+    },
+    {
+      "path": "nslt_Data/sharedassets0.assets",
+      "original_sha256": "831fcb38e44a5b6a6611089954aa88173cf2192efa9b8589992974dabe8765c8",
+      "patched_sha256": "6994a30f299ce7bc0e7659bae3878b3ea75d47eb958e9e896aac276b300305c3",
+      "bytes": 67302112
+    },
+    {
+      "path": "nslt_Data/StreamingAssets/Bundles/Windows/alwaysloaded",
+      "original_sha256": "56e2e34d9cabc1b5f68839c3c53157f76af93f3138faf674d065ce31f0d6d1be",
+      "patched_sha256": "808464df875f54a8d05180cff56f7a558f0a60823c5ad460b8254a177411f118",
+      "bytes": 58113180
+    },
+    {
+      "path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_shaders",
+      "original_sha256": "563fe798d27e79ca0f6a1da6dff4dd198772350b2419d5d54e1f4439b50ccef9",
+      "patched_sha256": "036ba02ca1dc833008239e77ddddf14dd2b396b61996cfa76e1d08287d6355fc",
+      "bytes": 19115553
+    },
+    {
+      "path": "nslt_Data/StreamingAssets/Bundles/Windows/mega_textures",
+      "original_sha256": "7920b3b05bd9df283fefd6ce7cc372d9f3109200c2469167ec302d8458e2ee5e",
+      "patched_sha256": "af537fbbd0b56882c2c46013a9bf596b58ed1f530f34d558540f4144d75bce99",
+      "bytes": 191295296
+    }
+  ],
+  "images": [
+    {
+      "name": "Title_Wrestful_Retreat",
+      "text": "摔跤静修地",
+      "image_id": "167cb001f6f2a58ca65c6d7cc3b9b2d1041928d233bf69acd084ce8916a022fc",
+      "occurrences": 4
+    },
+    {
+      "name": "CFX_T_Text_Boom",
+      "text": "轰！",
+      "image_id": "4749c835d1928fe8cb5cdfb1a92f11bb68703be5102c66506949a1dd1d25b52e",
+      "occurrences": 1
+    },
+    {
+      "name": "Title_Veggie_Village",
+      "text": "蔬菜村",
+      "image_id": "5a6d1bed9cc7c0c71453ca647515f30b09fb8ce86f929148a52d4184c5390a9a",
+      "occurrences": 4
+    },
+    {
+      "name": "Title_Foxington",
+      "text": "福克辛顿",
+      "image_id": "818ad560102886e982328605b13ea5fdab5fd3361a09716b3fe6eacf64ee9fbd",
+      "occurrences": 4
+    },
+    {
+      "name": "Title_Haunting_Ham",
+      "text": "闹鬼汉姆",
+      "image_id": "9c93bc5f46cc2d844b0404408f55e0cf570aa352064fed4e7d234b6d7c31316e",
+      "occurrences": 4
+    },
+    {
+      "name": "Title_Sky_Castle",
+      "text": "天空城堡",
+      "image_id": "a25b2eec2270a2de0a57b3b64fa8720f0b3f9e12b6130af33a197a4f71d46a86",
+      "occurrences": 4
+    },
+    {
+      "name": "Title_Gilly_Island",
+      "text": "吉利岛",
+      "image_id": "a5fcab00e994d964f84c4e9ccbaca5d1dd9d8a4b6e9e925baf2dd4aa427ff9a6",
+      "occurrences": 4
+    },
+    {
+      "name": "Foxington_Unlock_ref",
+      "text": "福克辛顿",
+      "image_id": "d96b8ec27b84a04c3fffe90986e386654ddb271bc20b6b44cfdd06b7038e02d6",
+      "occurrences": 1
+    },
+    {
+      "name": "UnderConstruction",
+      "text": "施工中",
+      "image_id": "f9223e9f72644b587ef876a064169ebafdd4236d6609a8177b30a547acf9dc9c",
+      "occurrences": 1
+    },
+    {
+      "name": "Logo",
+      "text": "新超级幸运狐",
+      "image_id": "88205c4fd9e5b604e5894089fbedc53367b6e01f74d8d18d2e13515896f3ce02",
+      "occurrences": 2
+    }
+  ],
+  "images_pending_visual_confirmation": 468,
+  "in_game_test": "passed"
+}

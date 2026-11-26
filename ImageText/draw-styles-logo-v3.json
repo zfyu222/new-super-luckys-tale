@@ -1,0 +1,51 @@
+{
+  "88205c4fd9e5b604e5894089fbedc53367b6e01f74d8d18d2e13515896f3ce02": {
+    "blocks": [
+      {
+        "rows": [
+          3
+        ],
+        "box": [
+          91,
+          205,
+          981,
+          465
+        ]
+      }
+    ],
+    "font_weight": 900,
+    "text_rgba": [
+      255,
+      187,
+      34,
+      255
+    ],
+    "stroke_width": 4,
+    "stroke_rgba": [
+      58,
+      29,
+      101,
+      255
+    ],
+    "shadow": {
+      "rgba": [
+        34,
+        16,
+        72,
+        255
+      ],
+      "offset": [
+        4,
+        8
+      ],
+      "blur": 0
+    },
+    "font": "D:\\StaticHanHua\\Tools\\Fonts\\NotoSC\\NotoSansSC-variable.ttf",
+    "size_scale": 1.6,
+    "max_font_size": 154,
+    "align": "center",
+    "angle": -7,
+    "blend": "normal",
+    "tracking": 0.035
+  }
+}

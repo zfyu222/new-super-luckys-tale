@@ -1,0 +1,179 @@
+{
+  "script": "latin",
+  "ordinary_score": 0.95,
+  "negative_samples": 20,
+  "weak_samples": 10,
+  "ordinary_samples": 10,
+  "qwen_batch": 100,
+  "seed": 42,
+  "images": {
+    "Title_Haunting_Ham-422caa8ccf682dacdde9.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Wrestful_Retreat-c27c9f75f897bcd6e856.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Foxington-5572f82d8e2a8e5ee3f2.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Veggie_Village-a13fd4c18148fed5d40d.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Sky_Castle-7e6c0818a2b450519774.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Gilly_Island-354d6451c6f761be33df.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Loading_Gear_NSLT_Logo-da66725594a44d53a1fb.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Gilly_Island-1d2245aa621adf16fc88.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Haunting_Ham-0b67b80c2a505b7921e6.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Foxington-f767bdbfbcb375fbb422.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Sky_Castle-ffa8a066e4f2410221fe.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Veggie_Village-8425705dd45dc4e72a92.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Wrestful_Retreat-6eab65a7921242447686.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Gilly_Island-af3dd51c624028d399ba.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Haunting_Ham-7de944f789e4871b0c12.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Foxington-0d8d4af5cd79a23f7caf.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Logo-e96f354733b2e4977eb8.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Sky_Castle-3e87dbaf16c2ecf801da.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Veggie_Village-a71887306beb94436054.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Wrestful_Retreat-2f0f905cec2dd57ec19e.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Gilly_Island-ba661ef51bb55a9bad05.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Logo_Asian-767cb402718edb7a10ed.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Haunting_Ham-93d9913f2cd3c0b06f2a.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Foxington-a5356c92c05c8bb508a5.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Logo-714f2c8883799cadbcd6.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Sky_Castle-154af9ebddd5566d80f8.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Veggie_Village-e1504cf20f0a40e29f3e.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Title_Wrestful_Retreat-01e577cd6a014a859cff.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    }
+  }
+}
